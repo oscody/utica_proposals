@@ -16,3 +16,5 @@ Use these files as a quick internal reference for comparing states and planning 
 They are not legal advice and should be checked against the official state source before filing.
 
 `Florida.md` is the original example and stays unchanged.
+
+Some states in this folder are treated as "no statewide license" states for general security-company operations, which means local city, county, firearms, or contract-specific rules may still apply.

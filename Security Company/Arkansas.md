@@ -27,8 +27,8 @@
 
 ## 6. Fees & Validity
 
-- Arkansas has a formal licensing process, but I did not confirm the current exact company fee from an official fee table in this pass
-- Verify current fees directly with Arkansas State Police before filing
+- Arkansas uses a formal state licensing process
+- Verify the current company fee directly with Arkansas State Police before filing
 
 ## 7. Employee Guard Requirements
 

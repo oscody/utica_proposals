@@ -2,7 +2,7 @@
 
 ## 1. License Name
 
-- No current statewide private security company license
+- No statewide private security company license currently identified in this directory
 
 ## 2. Core Requirement
 

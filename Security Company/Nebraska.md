@@ -2,11 +2,11 @@
 
 ## 1. License Name
 
-- No separate statewide security company license clearly identified
+- No statewide private security company license identified in this directory
 
 ## 2. Core Requirement
 
-- Nebraska does not appear to have a separate statewide contract security company license in the same structure used by many other states.
+- Nebraska is treated here as a no-statewide-license state for general private security company operations.
 - If a service crosses into private detective work, different licensing rules may apply.
 
 ## 3. Owner / Qualification Requirements
@@ -25,7 +25,7 @@
 
 ## 6. Fees & Validity
 
-- No statewide security-company agency fee confirmed because no general statewide license was identified
+- No statewide agency license fee is listed here because no general statewide license was identified
 
 ## 7. Employee Guard Requirements
 

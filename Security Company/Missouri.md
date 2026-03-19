@@ -2,11 +2,11 @@
 
 ## 1. License Name
 
-- No separate statewide security company license found
+- No statewide private security company license identified in this directory
 
 ## 2. Core Requirement
 
-- Missouri does not appear to require a statewide security company license.
+- Missouri is treated here as a no-statewide-license state for general private security company operations.
 - Kansas City, St. Louis, and other local jurisdictions may have their own licensing rules.
 
 ## 3. Owner / Qualification Requirements
@@ -24,7 +24,7 @@
 
 ## 6. Fees & Validity
 
-- No statewide security-company agency fee confirmed because no statewide security-company license was identified
+- No statewide agency license fee is listed here because no statewide security-company license was identified
 
 ## 7. Employee Guard Requirements
 

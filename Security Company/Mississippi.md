@@ -2,11 +2,11 @@
 
 ## 1. License Name
 
-- No separate statewide private security company license found
+- No statewide private security company license identified in this directory
 
 ## 2. Core Requirement
 
-- Mississippi does not appear to have a general statewide security company license in the same way as New York or Florida.
+- Mississippi is treated here as a no-statewide-license state for general private security company operations.
 - Some armed-security or special assignments may still be regulated through other state or local rules.
 
 ## 3. Owner / Qualification Requirements
@@ -24,7 +24,7 @@
 
 ## 6. Fees & Validity
 
-- No statewide security-company agency fee confirmed because no statewide security-company license was identified
+- No statewide agency license fee is listed here because no statewide security-company license was identified
 
 ## 7. Employee Guard Requirements
 
