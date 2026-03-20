@@ -1,120 +1,64 @@
+# Florida Security Company License
 
+## 1. License Name
 
-# **Florida Security Company License (Class “B” Agency)**
+- Class B Private Security Agency License
+- Regulated by the Florida Department of Agriculture and Consumer Services
 
-## **✅ 1\. License Name (Equivalent to NY)**
+## 2. Core Requirement
 
-* **Class “B” Private Security Agency License**  
-* **Required for any business providing security services ([Florida House of Representatives](https://www.flhouse.gov/Statutes/2025/0493.6301/?utm_source=chatgpt.com))**
+- A company providing private security services in Florida needs a Class B agency license.
+- Florida is generally easier than stricter qualifier states because the owner does not need the same level of direct experience seen in states like New York.
 
-**👉 This is the Florida equivalent of NY’s Watch Guard License**
+## 3. Owner / Qualification Requirements
 
----
+- Must be at least 18 years old
+- Must be legally authorized to work in the United States
+- Must pass background review
 
-# **👤 2\. Owner / Qualification Requirements (EASY)**
+## 4. Management Requirement
 
-* **Must be 18+ years old ([Florida Department of Agriculture](https://www.fdacs.gov/Business-Services/Private-Security-Licenses/Class-B-Private-Security-Agency-License-Requirements?utm_source=chatgpt.com))**  
-* **Must be legally allowed to work in the U.S. ([Florida Department of Agriculture](https://www.fdacs.gov/Business-Services/Private-Security-Licenses/Class-B-Private-Security-Agency-License-Requirements?utm_source=chatgpt.com))**  
-* **Background check (no serious criminal history)**
+- The agency must have a qualified manager
+- The manager must either:
+  - hold a Class M or MB license, or
+  - be a Class D guard with at least 2 years of qualifying experience
 
----
+## 5. Business Requirements
 
-# **🧠 3\. Management Requirement (Important)**
+- Form the business entity
+- Maintain a physical Florida office address
 
-**You must have a qualified manager:**
+## 6. Insurance / Bond
 
-**Option A:**
+- Florida requires liability coverage for the agency
+- Confirm the current minimum insurance amount in the Florida application materials before filing
 
-* **Hold a Class “M” or “MB” Manager License**
+## 7. Fees & Validity
 
-**Option B (easier):**
+- Application fee: about $50
+- License fee: about $450
+- License term: 3 years
 
-* **Have a Class “D” guard with 2+ years experience act as manager ([The Florida Senate](https://www.flsenate.gov/Laws/Statutes/2018/0493.6301?utm_source=chatgpt.com))**
+## 8. Employee Guard Requirements
 
-**👉 This replaces NY’s strict owner experience requirement**
+- Unarmed guards need a Class D license
+- Armed guards need a Class G license
+- Class D training is about 40 hours
 
----
+## 9. Additional Licenses
 
-# **🏢 4\. Business Requirements**
+- Branch office: Class BB license
+- Training school: Class DS license
 
-* **Must have a physical office address (no P.O. Box) ([Security Officer HQ](https://securityofficerhq.com/florida-start-security-agency?utm_source=chatgpt.com))**  
-* **Register your company (LLC/Corp)**
+## 10. Simple Summary
 
----
+1. Form the company
+2. Apply for the Class B agency license
+3. Assign a qualified manager
+4. Get the required insurance
+5. Hire properly licensed Class D or Class G guards
 
-# **🛡 5\. Insurance (Lower than NY)**
+## 11. Sources
 
-* **Minimum \~$300,000 general liability required ([Security Officer HQ](https://securityofficerhq.com/florida-start-security-agency?utm_source=chatgpt.com))**
-
-**👉 Much lower than NY (which often requires $1M–$5M)**
-
----
-
-# **💰 6\. Fees & Validity**
-
-* **Application fee: \~$50**  
-* **License fee: \~$450 ([Security Officer HQ](https://securityofficerhq.com/florida-start-security-agency?utm_source=chatgpt.com))**  
-* **Valid for 3 years**
-
----
-
-# **👮 7\. Your Guards**
-
-**Each employee must have:**
-
-### **Unarmed:**
-
-* **Class “D” License**  
-* **Requires \~40 hours training ([EPGD Business Law](https://www.epgdlaw.com/what-is-a-private-security-license-in-florida/?utm_source=chatgpt.com))**
-
-### **Armed:**
-
-* **Class “G” License (extra firearms training) ([EPGD Business Law](https://www.epgdlaw.com/what-is-a-private-security-license-in-florida/?utm_source=chatgpt.com))**
-
----
-
-# **🧾 8\. Additional Licenses (If Needed)**
-
-* **Branch office → Class “BB” license ([The Florida Senate](https://www.flsenate.gov/Laws/Statutes/2018/0493.6301?utm_source=chatgpt.com))**  
-* **Training school → Class “DS” license ([The Florida Senate](https://www.flsenate.gov/Laws/Statutes/2018/0493.6301?utm_source=chatgpt.com))**
-
----
-
-# **⚡ Why Florida Is Easier Than NY**
-
-* **No mandatory owner experience**  
-* **No state exam for agency**  
-* **Lower insurance requirements**  
-* **Faster approval process**
-
----
-
-# **🔑 Simple Summary**
-
-**👉 To start in Florida:**
-
-1. **Register company**  
-2. **Get Class B license**  
-3. **Assign a qualified manager**  
-4. **Get insurance**  
-5. **Hire Class D licensed guards**
-
----
-
-# **💡 Strategic Insight (For You)**
-
-**For Utica Security, Florida is powerful because:**
-
-* **You can set up faster than NY**  
-* **Use your NY credibility to win contracts**  
-* **Expand into:**  
-  * **Construction security**  
-  * **Residential developments**  
-  * **Event security (huge in FL)**
-
----
-
-**If you want next step, I can build:**  
-**👉 “Utica Security Florida Expansion Plan”**  
-**(with setup checklist, cost breakdown, and target clients in Miami/Orlando/Tampa)**
-
+- Florida Class B license requirements: https://www.fdacs.gov/Business-Services/Private-Security-Licenses/Class-B-Private-Security-Agency-License-Requirements
+- Florida statute section 493.6301: https://www.flsenate.gov/Laws/Statutes/2018/0493.6301

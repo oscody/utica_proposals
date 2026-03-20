@@ -18,3 +18,55 @@ They are not legal advice and should be checked against the official state sourc
 `Florida.md` is the original example and stays unchanged.
 
 Some states in this folder are treated as "no statewide license" states for general security-company operations, which means local city, county, firearms, or contract-specific rules may still apply.
+
+- [Colorado.md](Security Company/Colorado.md)
+  - [Idaho.md](Security Company/Idaho.md)
+  - [Kansas.md](Security Company/Kansas.md)
+  - [Kentucky.md](Security Company/Kentucky.md)
+  - [Mississippi.md](Security Company/Mississippi.md)
+  - [Missouri.md](Security Company/Missouri.md)
+  - [Nebraska.md](Security Company/Nebraska.md)
+  - [South Dakota.md](Security Company/South%20Dakota.md)
+  - [Wyoming.md](Security Company/Wyoming.md)
+
+  If you mean the easiest states that still do have a real statewide agency license, the best candidates
+  from your folder are:
+  - [Vermont.md](Security Company/Vermont.md)
+  - [Rhode Island.md](Security Company/Rhode%20Island.md)
+  - [Virginia.md](Security Company/Virginia.md)
+  - [Florida.md](Security Company/Florida.md)
+
+---
+
+- Alabama
+  - Alaska
+  - Arizona
+  - Arkansas
+  - Hawaii
+  - Indiana
+  - Iowa
+  - Kansas
+  - Kentucky
+  - Louisiana
+  - Maine
+
+  ***
+  - Maryland
+  - Massachusetts
+  - Michigan
+  - Minnesota
+  - Mississippi
+  - Missouri
+  - Montana
+  - Nebraska
+  - Nevada
+  - New Hampshire
+  - New Mexico
+  - New York
+  - North Carolina
+  - North Dakota
+  - Ohio
+  - Oklahoma
+  - Oregon
+  - Pennsylvania
+  - Rhode Island
