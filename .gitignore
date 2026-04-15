@@ -1,3 +1,9 @@
 # macOS Finder metadata
 .DS_Store
 **/.DS_Store
+
+# Local Python virtual environment
+.venv/
+
+# Local vendored Python packages
+.vendor/
