@@ -79,7 +79,7 @@ The RGRTA materials also support the broader statement that Utica Security Servi
 | Director of Operations | `Uche Uti` | Oversight of multi-site operations, staffing adequacy, resource allocation, performance metrics, QA, and training initiatives |
 | Operations Manager | `Irene Ero` | Day-to-day security operations management, investigations, access control, screening operations, emergency response coordination, and performance management |
 | Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
-| Training/Compliance Lead | `Livina ` | Training records, onboarding, certification tracking, and compliance oversight |
+| Training/Compliance Lead | `Oneil Bogle` | Training records, onboarding, certification tracking, and compliance oversight |
 
 ## 1.7 Financial Statement #todo
  Utica Security Services Inc.'s most recent financial statement is included as an attachment to this proposal.

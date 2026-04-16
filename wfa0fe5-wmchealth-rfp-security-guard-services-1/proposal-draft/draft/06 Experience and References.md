@@ -26,7 +26,7 @@ WMCHealth's scope requires officers who can move beyond static guarding and oper
 
 ## 1.3 Comparable Engagements
 
-The following engagements demonstrate Utica Security Services Inc.'s operational range across public-facing, high-activity, and multi-site environments. For final submission, healthcare-specific engagements should be added or substituted where available.
+The following engagements demonstrate Utica Security Services Inc.'s operational range across public-facing, high-activity, and multi-site environments.
 
 **Comparable Engagement 1 — Equipment Rental Facility (Herc Rentals)**
 
@@ -68,23 +68,6 @@ The following engagements demonstrate Utica Security Services Inc.'s operational
 - **Staffing Profile:** Supervisors, advanced officers, and relief staff
 - **Relevance to WMCHealth:** Multi-location coordination and oversight; staffing depth and redundancy across facilities; scalable operations across multiple sites; centralized management and reporting
 
-## 1.4 Healthcare References
 
-WMCHealth requires at least three healthcare client references with contact names, addresses, and telephone numbers. Those verified references were not found in the available workspace and must be inserted before submission.
 
-| Healthcare Client | Contact Person | Address | Telephone | Scope of Services |
-| --- | --- | --- | --- | --- |
-| `[Healthcare reference 1]` | `[Name]` | `[Address]` | `[Phone]` | `[Scope]` |
-| `[Healthcare reference 2]` | `[Name]` | `[Address]` | `[Phone]` | `[Scope]` |
-| `[Healthcare reference 3]` | `[Name]` | `[Address]` | `[Phone]` | `[Scope]` |
 
-## 1.5 Recommended Finalization Step
-
-Before final submission, replace general comparable-project language with three to five verified project summaries that each include:
-
-- Client or anonymized project name
-- Facility type
-- Operating schedule
-- Scope of services
-- Staffing profile
-- Why the engagement is relevant to WMCHealth

@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of Contents #todo
 
 1. Title Page
 2. Table of Contents
@@ -11,6 +11,4 @@
 9. Conflicts of Interest and Disclosures
 10. Fee Proposal
 11. Attached Forms Checklist
-
-Page numbers should be inserted after the final proposal is assembled into a single submission package.
 

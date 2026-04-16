@@ -1,4 +1,4 @@
-# Proposal to Perform Security Guard Services
+# Proposal to Perform Security Guard Services #todo
 
 ## Westchester Medical Center Health Network
 
@@ -12,4 +12,3 @@ Proposal Contact: `[Name, Title, Phone, Email]`
 Authorized Signatory: `[Name, Title, Phone, Email]`
 
 Date: `[Submission Date]`
-

@@ -1,8 +1,8 @@
-# Fee Proposal
+# Fee Proposal #todo
 
 The WMCHealth RFP requires the fee proposal to be submitted in a separate, clearly marked document.
 
-This file is a placeholder for the pricing package and should be replaced with a final fee proposal that includes:
+This file should be replaced with a final fee proposal that includes:
 
 - Clear pricing cover sheet
 - Separate pricing by entity and position, consistent with the Q&A guidance

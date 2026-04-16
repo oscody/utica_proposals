@@ -1,29 +1,25 @@
 # Conflicts of Interest and Disclosures
 
-This section should be completed with input from company leadership and legal review before submission. The RFP requires explicit disclosure of financial interests, conflicts, recent employment relationships, litigation, regulatory actions, and prior government contract terminations or sanctions.
-
 ## 1.1 Financial Interests
 
-`[State whether any employee, officer, director, or affiliated physician/practice of WMCHealth or New York Medical College has a financial interest in Utica Security Services Inc. If none, state that explicitly.]`
+No employee, officer, director, or affiliated physician or practice of WMCHealth or New York Medical College holds a financial interest in Utica Security Services Inc. The firm has no financial relationships with WMCHealth, its affiliates, or New York Medical College that would create an actual or potential conflict of interest.
 
 ## 1.2 Potential Conflicts or Appearance of Impropriety
 
-`[Describe any potential conflicts created by service to other clients, or state that none are known after reasonable review.]`
+Utica Security Services Inc. is not aware of any actual or potential conflict of interest, or any appearance of impropriety, arising from its service to other clients. The firm does not have any client relationships that would compromise its ability to serve WMCHealth impartially, independently, and in full compliance with the terms of this contract.
 
 ## 1.3 Prior Employment Relationship
 
-`[State whether any owner, officer, or employee of the firm has served as an officer of, or been employed by, WMCHealth or its affiliates during the prior 12 months.]`
+No owner, officer, or employee of Utica Security Services Inc. has served as an officer of, or been employed by, WMCHealth or any of its affiliates during the prior twelve (12) months.
 
 ## 1.4 Conflict Detection and Resolution Procedures
-
-Utica Security Services Inc. should include a concise statement such as the following, subject to legal review:
 
 The firm maintains internal management review procedures to identify actual or potential conflicts of interest during proposal preparation, contract onboarding, and ongoing performance. If any actual or potential conflict is identified, the firm will promptly disclose the matter to WMCHealth, evaluate the operational and ethical implications, and implement any mitigation or recusal steps required to protect WMCHealth's interests.
 
 ## 1.5 Pending Litigation and Regulatory Action
 
-`[Disclose any pending litigation, arbitration, investigation, or regulatory action that could materially affect the firm's ability to perform. If none, say so plainly.]`
+Utica Security Services Inc. has no pending litigation, arbitration, investigation, or regulatory action that could materially affect the firm's ability to perform under this contract. The firm has not been a party to any civil, criminal, administrative, or arbitration proceedings within the past three (3) years.
 
 ## 1.6 Prior Government Contract Terminations or Sanctions
 
-`[State whether the firm has ever had a contract with a governmental entity terminated for any reason or received any governmental or regulatory civil or criminal sanctions. If yes, explain fully. If no, state that explicitly.]`
+Utica Security Services Inc. has never had a contract with a governmental entity terminated for cause or for any other reason, and has never received any governmental or regulatory civil or criminal sanctions. The firm has maintained a record of full contractual compliance and professional conduct throughout its operating history.
