@@ -1,6 +1,6 @@
 # Staffing Proposal
 
-## 7.1 Staffing Approach
+## 1.1 Staffing Approach
 
 Utica Security Services Inc. proposes a management and staffing model designed for a multi-campus healthcare network with varied post types, high public visibility, and a mix of preventive, responsive, and support-based security functions. The model is built to support continuous coverage, rapid management escalation, and site-specific adaptation as final post orders and transition details are confirmed.
 
@@ -17,7 +17,7 @@ The proposed staffing structure is intended to support:
 - Vehicle patrols and campus roving coverage
 - Courier and shuttle support where required
 
-## 7.2 Proposed Project Team Structure
+## 1.2 Proposed Project Team Structure
 
 | Role | Function | Level of Effort |
 | --- | --- | --- |
@@ -31,7 +31,7 @@ The proposed staffing structure is intended to support:
 | Relief/Floater Staff | Call-out coverage, surge response, schedule resilience | Maintained as reserve capacity |
 | Compliance/Training Coordinator | Training records, onboarding, certification tracking | Ongoing support |
 
-## 7.3 Staffing Justification
+## 1.3 Staffing Justification
 
 WMCHealth's scope requires a vendor with enough operational depth to support different security functions across multiple hospital environments without allowing coverage failures at one site to degrade service at another. This staffing approach is justified by the following conditions in the RFP:
 
@@ -45,7 +45,7 @@ WMCHealth's scope requires a vendor with enough operational depth to support dif
 
 For those reasons, the model includes dedicated management oversight, shift-level supervision, reserve coverage capacity, and a compliance function rather than relying solely on a scheduler and frontline officers.
 
-## 7.4 Customer Service Training
+## 1.4 Customer Service Training
 
 Because WMCHealth security personnel serve in public-facing hospital environments, customer service training is treated as an operational requirement rather than a soft-skill add-on. Initial and ongoing customer-service training would address:
 
@@ -59,7 +59,7 @@ Because WMCHealth security personnel serve in public-facing hospital environment
 
 Customer-service expectations would be reinforced through orientation, post-order training, supervisory observation, and remedial coaching when needed.
 
-## 7.5 Initial and Ongoing Training
+## 1.5 Initial and Ongoing Training
 
 Utica Security Services Inc. would implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. Based on the Q&A materials, the core training program should include:
 
@@ -79,7 +79,7 @@ Utica Security Services Inc. would implement a healthcare-oriented training prog
 - Use of force, restraint support limits, and lawful escalation
 - Customer-service and communication standards
 
-## 7.6 Metrics For Best-In-Class Service
+## 1.6 Metrics For Best-In-Class Service
 
 The following service metrics are proposed as a starting KPI framework for WMCHealth:
 
@@ -94,7 +94,7 @@ The following service metrics are proposed as a starting KPI framework for WMCHe
 | Management escalation response | Immediate phone response, on-site response based on severity |
 | Corrective action closure | Tracked to completion within defined timelines |
 
-## 7.7 Staffing Assumptions
+## 1.7 Staffing Assumptions
 
 This draft staffing proposal remains primarily narrative-based, but the April 14, 2026 Q&A materially improves the available staffing picture by providing a chart with baseline weekly hours by location and role. Before final submission, the staffing proposal should be supplemented with either:
 

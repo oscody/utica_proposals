@@ -1,6 +1,6 @@
 # Experience and References
 
-## 6.1 Experience With Comparable Operations
+## 1.1 Experience With Comparable Operations
 
 Utica Security Services Inc. has experience supporting environments that require continuous coverage, visible security presence, disciplined escalation, and consistent documentation. Based on the source proposal materials available in the workspace, the firm's demonstrated strengths include:
 
@@ -14,7 +14,7 @@ Utica Security Services Inc. has experience supporting environments that require
 
 These capabilities are relevant to WMCHealth's requirements, especially where security officers must serve in hospital lobbies, visitor screening areas, control centers, behavioral health areas, patrol assignments, and emergency-response support functions.
 
-## 6.2 Relevance To WMCHealth Scope
+## 1.2 Relevance To WMCHealth Scope
 
 WMCHealth's scope requires officers who can move beyond static guarding and operate as part of a broader healthcare safety program. The draft proposal is therefore framed around the following healthcare-relevant competencies:
 
@@ -24,7 +24,7 @@ WMCHealth's scope requires officers who can move beyond static guarding and oper
 - Reliable documentation and escalation discipline
 - Operational flexibility across multiple campuses with different service models
 
-## 6.3 Example Comparable Engagement Categories
+## 1.3 Example Comparable Engagement Categories
 
 The RGRTA proposal materials reference work in large public-facing and controlled environments such as:
 
@@ -42,7 +42,7 @@ Those examples should be refined before submission into the strongest contract n
 - Executive or patient escort functions
 - High accountability and formal reporting
 
-## 6.4 Healthcare References
+## 1.4 Healthcare References
 
 WMCHealth requires at least three healthcare client references with contact names, addresses, and telephone numbers. Those verified references were not found in the available workspace and must be inserted before submission.
 
@@ -52,7 +52,7 @@ WMCHealth requires at least three healthcare client references with contact name
 | `[Healthcare reference 2]` | `[Name]` | `[Address]` | `[Phone]` | `[Scope]` |
 | `[Healthcare reference 3]` | `[Name]` | `[Address]` | `[Phone]` | `[Scope]` |
 
-## 6.5 Recommended Finalization Step
+## 1.5 Recommended Finalization Step
 
 Before final submission, replace general comparable-project language with three to five verified project summaries that each include:
 
@@ -62,4 +62,3 @@ Before final submission, replace general comparable-project language with three 
 - Scope of services
 - Staffing profile
 - Why the engagement is relevant to WMCHealth
-
