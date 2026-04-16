@@ -34,19 +34,13 @@ The following firm-profile items should be completed with current company record
 
 | Required Item | Draft Response |
 | --- | --- |
-| Date organized | `[Insert date]` |
-| If incorporated, when and where | `[Insert incorporation date and state]` |
+| Date organized | `April 7, 2021` |
+| If incorporated, when and where | `April 7, 2021, New York` |
 | Name of firm | `Utica Security Services Inc.` |
 | Address | `165-45A Baisley Boulevard, Suite 8 & 9, Jamaica, NY 11434` |
-| Telephone number | `[Insert phone]` |
-| Fax number | `[Insert fax or N/A]` |
-| Website | `[Insert website or N/A]` |
-| Proposal contact | `[Insert name, title, email]` |
-| Office managing this engagement | `[Insert office location]` |
-| Personnel employed at managing office | `[Insert count]` |
-| Total number of offices | `[Insert count]` |
-| Office addresses | `[Insert list]` |
-| Total number of employees | `[Insert count]` |
+| Telephone number | `(347) 548-5829` |
+| Website | `https://www.uticasecurityservices.com/` |
+| Total number of employees | `~125+ (100+ licensed NY State security personnel, 10 supervisors, and 15 operations and administrative staff)` |
 
 The following operating details appear in the source RGRTA proposal and can be used if they remain accurate and are verified before submission:
 
@@ -63,9 +57,11 @@ The RFP requires a list of all former and current clients for the past three yea
 
 | Client | Dates of Service | Location | Scope of Services |
 | --- | --- | --- | --- |
-| `[Client 1]` | `[Dates]` | `[Location]` | `[Scope]` |
-| `[Client 2]` | `[Dates]` | `[Location]` | `[Scope]` |
-| `[Client 3]` | `[Dates]` | `[Location]` | `[Scope]` |
+| Herc Rentals | `[Insert dates]` | New York | Perimeter security, access control, fixed-post coverage at entry points, roving patrols of equipment yard and facility grounds, asset protection and theft prevention, customer area security and visitor management, incident reporting |
+| World Trade Centre | `[Insert dates]` | New York | Access control and perimeter security, fixed-post coverage, visitor screening and credential management, incident response and emergency response coordination, multi-agency coordination with municipal staff |
+| Rockefeller Center | `[Insert dates]` | New York | Visible deterrence and patrol, crowd management during peak tourist seasons and special events, de-escalation of behavioral incidents, access control during events, incident documentation and reporting |
+| New York Life | `[Insert dates]` | New York | Access control and visitor management, fixed posts and patrols, executive protection services, perimeter security and loading dock monitoring, coordination with emergency responders, incident reporting |
+| Burlington Coat Factory | `[Insert dates]` | Multiple NY locations | Asset protection and loss prevention, multi-site staffing plan development and management, coverage integrity and absenteeism management, customer service and visible deterrence, centralized incident reporting and on-call management |
 
 ## 1.5 Healthcare Experience and Relevance
 
@@ -90,11 +86,11 @@ The RFP requests a list of principals to be used on the engagement including pro
 
 | Proposed Role | Name | Primary Responsibility |
 | --- | --- | --- |
-| Executive Sponsor | `[Insert]` | Contract authority and executive escalation |
-| Director of Operations | `Uche Charles` | Oversight of multi-site operations, staffing adequacy, resource allocation, performance metrics, QA, and training initiatives |
+| Executive Sponsor | `Charles Uti` | Contract authority and executive escalation |
+| Director of Operations | `Uche Uti` | Oversight of multi-site operations, staffing adequacy, resource allocation, performance metrics, QA, and training initiatives |
 | Operations Manager | `Irene Ero` | Day-to-day security operations management, investigations, access control, screening operations, emergency response coordination, and performance management |
 | Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
-| Training/Compliance Lead | `[Insert]` | Training records, onboarding, certification tracking, and compliance oversight |
+| Training/Compliance Lead | `Livina ` | Training records, onboarding, certification tracking, and compliance oversight |
 
 Before submission, each named individual should be checked for availability on the WMCHealth engagement and supported with a current resume or short bio.
 
