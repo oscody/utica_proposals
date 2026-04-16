@@ -61,10 +61,13 @@ Customer-service expectations would be reinforced through orientation, post-orde
 
 ## 7.5 Initial and Ongoing Training
 
-Utica Security Services Inc. would implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. Training topics should include:
+Utica Security Services Inc. would implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. Based on the Q&A materials, the core training program should include:
 
-- WMCHealth-required orientation and mandatory learning modules
-- WMCHealth-approved de-escalation training with annual refresher training
+- WMCHealth Orientation (8 hours)
+- Annual WMCHealth net-learning as required
+- Crisis Prevention Program (CPP) / de-escalation training within 60 days of hire
+- CPR training within 60 days of hire
+- AED training within 60 days of hire
 - Behavioral health awareness and crisis-response principles
 - Workplace violence recognition and response
 - Active shooter and panic alarm response
@@ -93,8 +96,13 @@ The following service metrics are proposed as a starting KPI framework for WMCHe
 
 ## 7.7 Staffing Assumptions
 
-This draft staffing proposal is narrative-based and intentionally avoids inventing post counts or FTE totals not provided in the RFP materials available in the workspace. Before final submission, the staffing proposal should be supplemented with either:
+This draft staffing proposal remains primarily narrative-based, but the April 14, 2026 Q&A materially improves the available staffing picture by providing a chart with baseline weekly hours by location and role. Before final submission, the staffing proposal should be supplemented with either:
 
-- A site-by-site staffing schedule if WMCHealth expects one at proposal stage, or
+- A site-by-site staffing schedule derived from the Q&A chart and any internal pricing/staffing assumptions, or
 - A management staffing matrix plus narrative assumptions if WMCHealth prefers conceptual staffing before interviews and walkthroughs
 
+The Q&A also clarifies the following operating assumptions relevant to staffing:
+
+- All posts are considered essential and coverage is expected at all times, including call-outs and PTO coverage.
+- HealthAlliance dual-role positions are split-duty roles, and certifications for those specialized roles are optional, preferred, but not required.
+- Retention of existing personnel remains possible and should be addressed as part of the transition approach.

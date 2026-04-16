@@ -41,8 +41,8 @@ Utica Security Services Inc. is willing to enter into a contractual agreement co
 In preparing this proposal, we have assumed that:
 
 - WMCHealth may refine post orders, site-specific staffing expectations, and transition sequencing after proposal review and any site walkthroughs.
-- Existing operations vary by campus and may include a combination of incumbent vendor practices and internally staffed models.
-- Final staffing deployment, armed post assignments, and transition milestones will be validated jointly with WMCHealth before contract start.
+- Existing operations vary by campus and may include both incumbent vendor operations and internally staffed models.
+- The Q&A materials provide partial staffing and scheduling clarification, but final staffing deployment, some armed-post details, and transition milestones will still need to be validated jointly with WMCHealth before contract start.
 
 Utica Security Services Inc. is prepared to provide professional, scalable, and accountable security services across a complex healthcare environment that includes acute care hospitals, behavioral health areas, visitor screening, control center functions, patrol operations, and emergency response support.
 
@@ -53,4 +53,3 @@ Sincerely,
 `[Authorized Signatory Name]`  
 `[Title]`  
 Utica Security Services Inc.
-

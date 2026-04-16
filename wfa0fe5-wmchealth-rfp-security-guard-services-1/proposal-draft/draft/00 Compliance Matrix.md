@@ -10,7 +10,7 @@ This matrix tracks the proposal content required by Section 2.9 of the WMCHealth
 | Executive Summary | `04 Executive Summary.md` | Drafted | Keep to one page in final formatting |
 | Proposer Background and Experience | `05 Proposer Background and Experience.md` | Drafted | Needs financial statement and full client list |
 | Experience | `06 Experience and References.md` | Partial | Needs at least three healthcare references |
-| Staffing Proposal | `07 Staffing Proposal.md` | Drafted | Level-of-effort table should be refined after site walkthrough or staffing assumptions are confirmed |
+| Staffing Proposal | `07 Staffing Proposal.md` | Drafted | Narrative updated to reflect Q&A clarifications; staffing table can be refined further from the Q&A chart and any final post-order confirmation |
 | Fee Proposal | `10 Fee Proposal Placeholder.md` | Placeholder | Must be submitted as a separate marked document |
 | Additional Information | `08 Additional Information.md` | Drafted | Can be tightened after pricing is finalized |
 | Conflicts of Interest | `09 Conflicts of Interest and Disclosures.md` | Placeholder | Requires legal and ownership review |
@@ -18,8 +18,8 @@ This matrix tracks the proposal content required by Section 2.9 of the WMCHealth
 
 ## Drafting Assumptions
 
-- The proposal is being prepared before any site walkthrough and before receipt of any addenda or Q&A.
-- Staffing assumptions are conceptual and will be validated during transition planning, incumbent review, and post-order confirmation.
+- The proposal is being prepared before any site walkthrough, but after review of the April 14, 2026 Questions & Answers document.
+- Staffing assumptions are partially clarified by the Q&A chart and will still need validation during transition planning, incumbent review, and final post-order confirmation.
 - Narrative is based on confirmed RFP scope plus reusable operating language from the RGRTA proposal workspace.
 - No healthcare-specific client references, financial statements, or conflict disclosures were found in the source materials available in this workspace, so those items remain flagged for company completion.
 
@@ -36,3 +36,10 @@ This matrix tracks the proposal content required by Section 2.9 of the WMCHealth
 - De-escalation, emergency response, and annual refresher training
 - Electronic records management, personnel file maintenance, and insurance compliance
 
+## Q&A Clarifications Incorporated
+
+- WMCHealth confirmed that the scope includes both armed and unarmed guard services.
+- WMC Valhalla and Mid-Hudson are subject to prevailing wage requirements; Bon Secours and HealthAlliance are not currently subject to prevailing wage.
+- The Q&A indicates a consolidated agreement structure and states that the intention is to award a single vendor.
+- Training requirements were clarified to include WMCHealth orientation, annual net-learning, Crisis Prevention Program (CPP), CPR, and AED training.
+- Baseline staffing hours by location and role are partially reflected in the Q&A chart, but some security-sensitive post details remain withheld.
