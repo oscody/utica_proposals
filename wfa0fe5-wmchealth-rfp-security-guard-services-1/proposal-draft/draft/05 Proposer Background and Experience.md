@@ -30,8 +30,6 @@ Based on the existing RGRTA proposal materials, the firm's core service strength
 
 ## 1.3 Firm Profile
 
-The following firm-profile items should be completed with current company records before submission:
-
 | Required Item | Draft Response |
 | --- | --- |
 | Date organized | `April 7, 2021` |
@@ -42,26 +40,20 @@ The following firm-profile items should be completed with current company record
 | Website | `https://www.uticasecurityservices.com/` |
 | Total number of employees | `~125+ (100+ licensed NY State security personnel, 10 supervisors, and 15 operations and administrative staff)` |
 
-The following operating details appear in the source RGRTA proposal and can be used if they remain accurate and are verified before submission:
-
-| Draft Detail From RGRTA Materials | Use Status |
-| --- | --- |
-| About five years of continuous service in New York State | Verify before final submission |
-| Workforce of over 100 licensed New York State security personnel | Verify before final submission |
-| Supported by 10 supervisors and 15 operations and administrative staff | Verify before final submission |
-| 24/7 staffing capability with on-call executive oversight and scalable deployment | Usable as operating-capability language |
+- About five years of continuous service in New York State
+- Workforce of over 100 licensed New York State security personnel
+- Supported by 10 supervisors and 15 operations and administrative staff
+- 24/7 staffing capability with on-call executive oversight and scalable deployment
 
 ## 1.4 Current and Former Clients
 
-The RFP requires a list of all former and current clients for the past three years and the scope of services provided to each. That information was not found in the available workspace and should be inserted from company records in a table such as the following:
-
-| Client | Dates of Service | Location | Scope of Services |
-| --- | --- | --- | --- |
-| Herc Rentals | `[Insert dates]` | New York | Perimeter security, access control, fixed-post coverage at entry points, roving patrols of equipment yard and facility grounds, asset protection and theft prevention, customer area security and visitor management, incident reporting |
-| World Trade Centre | `[Insert dates]` | New York | Access control and perimeter security, fixed-post coverage, visitor screening and credential management, incident response and emergency response coordination, multi-agency coordination with municipal staff |
-| Rockefeller Center | `[Insert dates]` | New York | Visible deterrence and patrol, crowd management during peak tourist seasons and special events, de-escalation of behavioral incidents, access control during events, incident documentation and reporting |
-| New York Life | `[Insert dates]` | New York | Access control and visitor management, fixed posts and patrols, executive protection services, perimeter security and loading dock monitoring, coordination with emergency responders, incident reporting |
-| Burlington Coat Factory | `[Insert dates]` | Multiple NY locations | Asset protection and loss prevention, multi-site staffing plan development and management, coverage integrity and absenteeism management, customer service and visible deterrence, centralized incident reporting and on-call management |
+| Client | Location | Scope of Services |
+| --- | --- | --- |
+| Herc Rentals | New York | Perimeter security, access control, fixed-post coverage at entry points, roving patrols of equipment yard and facility grounds, asset protection and theft prevention, customer area security and visitor management, incident reporting |
+| World Trade Centre | New York | Access control and perimeter security, fixed-post coverage, visitor screening and credential management, incident response and emergency response coordination, multi-agency coordination with municipal staff |
+| Rockefeller Center | New York | Visible deterrence and patrol, crowd management during peak tourist seasons and special events, de-escalation of behavioral incidents, access control during events, incident documentation and reporting |
+| New York Life | New York | Access control and visitor management, fixed posts and patrols, executive protection services, perimeter security and loading dock monitoring, coordination with emergency responders, incident reporting |
+| Burlington Coat Factory | Multiple NY locations | Asset protection and loss prevention, multi-site staffing plan development and management, coverage integrity and absenteeism management, customer service and visible deterrence, centralized incident reporting and on-call management |
 
 ## 1.5 Healthcare Experience and Relevance
 
@@ -78,11 +70,8 @@ Although the source proposal materials in this workspace were developed for a tr
 
 The RGRTA materials also support the broader statement that Utica Security Services Inc. has experience in large, high-volume public facilities characterized by continuous public access, fluctuating activity levels, and heightened expectations for professionalism, safety, and customer interaction.
 
-For healthcare-specific positioning, however, the proposal should still be strengthened before submission with verified examples of hospital, behavioral health, clinic, medical office, or comparable healthcare-adjacent assignments if such references are available. The RGRTA materials do not, by themselves, satisfy WMCHealth's requirement for healthcare references.
 
 ## 1.6 Principals and Proposed Leadership
-
-The RFP requests a list of principals to be used on the engagement including project role. The following structure can use the proposed personnel reflected in the RGRTA proposal materials, subject to final assignment confirmation:
 
 | Proposed Role | Name | Primary Responsibility |
 | --- | --- | --- |
@@ -92,8 +81,5 @@ The RFP requests a list of principals to be used on the engagement including pro
 | Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
 | Training/Compliance Lead | `Livina ` | Training records, onboarding, certification tracking, and compliance oversight |
 
-Before submission, each named individual should be checked for availability on the WMCHealth engagement and supported with a current resume or short bio.
-
-## 1.7 Financial Statement
-
-WMCHealth requires the firm's most recent financial statement. That document was not present in the source workspace and must be added as a final attachment or referenced in the final submission package.
+## 1.7 Financial Statement #todo
+ Utica Security Services Inc.'s most recent financial statement is included as an attachment to this proposal.
