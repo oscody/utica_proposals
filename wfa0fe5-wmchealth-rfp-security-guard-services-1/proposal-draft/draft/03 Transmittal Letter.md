@@ -36,7 +36,7 @@ If different from the authorized signatory, the primary proposal contact is:
 `[Telephone]`  
 `[Email]`
 
-Utica Security Services Inc. is willing to enter into a contractual agreement containing, at a minimum, the terms and conditions set forth in Attachment A of the RFP, subject to final legal review. Any specific exceptions to Attachment A, if any, will be identified in a separate contract exceptions section before final submission. As of this draft, no exceptions are asserted.
+Utica Security Services Inc. is willing to enter into a contractual agreement containing, at a minimum, the terms and conditions set forth in Attachment A of the RFP. No exceptions to Attachment A are asserted.
 
 In preparing this proposal, we have assumed that:
 
