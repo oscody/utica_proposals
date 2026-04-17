@@ -9,6 +9,7 @@ The differentiators emphasized in this draft proposal are:
 - A service model built around active supervision instead of passive post filling
 - Strong de-escalation and emergency-response orientation for high-stress environments
 - Willingness to furnish uniforms, vehicles, field equipment, and armed-post support in line with the RFP and Q&A clarifications
+- Responsibility for replenishing or refurbishing depleted supplies used by security personnel at no additional cost to WMCHealth
 - Structured reporting, recordkeeping, inspections, and corrective action processes
 - A practical understanding that healthcare security must balance safety, professionalism, patient dignity, and public confidence
 

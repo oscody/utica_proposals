@@ -47,18 +47,20 @@ All 9 required coverages are completely absent from every draft file.
 
 **Action:** Add a statement committing to carry all required coverages at the specified limits. Actual certificates of insurance will be provided upon award.
 
-#### B. Prisoner Management
+#### B. Prisoner Management — [x] Completed
 The RFP requires the vendor to address prisoner responsibilities. Currently not mentioned anywhere in the draft.
 
 Per Q&A: The vendor has no prisoner custody role. Security provides increased rounding; law enforcement (Corrections/LEO) handles forensic patients. Security vendor interacts and liaises with law enforcement agencies as needed.
 
 **Action:** Add a short paragraph acknowledging this duty and clarifying the vendor's role (rounding and liaison only, no custody responsibilities).
 
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.3 — confirms no custody role; officers provide increased rounding and liaise with law enforcement as needed.
+
 ---
 
 ### Priority 2 — Significant (partially addressed, needs strengthening)
 
-#### C. 24/7 Armed Coverage at All 6 Sites
+#### C. 24/7 Armed Coverage at All 6 Sites — [x] Completed
 Currently deferred in the draft: *"armed-post details will need to be validated jointly with WMCHealth before contract start."* The RFP requires explicit commitment.
 
 Sites requiring 24/7 armed coverage:
@@ -71,27 +73,37 @@ Sites requiring 24/7 armed coverage:
 
 **Action:** Add explicit 24/7 armed coverage commitment for all 6 sites in the Staffing Proposal. Specific post counts can be noted as subject to final confirmation with WMCHealth.
 
-#### D. Concierge Services Detail
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.3 — explicit 24/7 armed commitment at all 6 named locations; post counts subject to WMCHealth post orders.
+
+#### D. Concierge Services Detail — [x] Completed
 Currently only mentioned in passing. No description of duties or service standards.
 
 **Action:** Add a brief description of concierge duties (lobby greeting, wayfinding, visitor management support) and customer service performance expectations.
 
-#### E. Two Administrative Officers at Valhalla
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.1 — describes visitor reception, wayfinding, visitor management support, and links to customer service training standards in section 1.4.
+
+#### E. Two Administrative Officers at Valhalla — [x] Completed
 Acknowledged in the draft but never confirmed with a specific count or hours.
 
 **Action:** Explicitly confirm two officers in administrative support roles at Valhalla per RFP Section 4.
 
-#### F. Supply Replenishment and Refurbishment
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.7 — confirms two officers in administrative support roles at Valhalla per RFP Section 4; hours subject to post orders.
+
+#### F. Supply Replenishment and Refurbishment — [x] Completed
 Not stated anywhere in the draft.
 
 **Action:** Add one sentence confirming vendor responsibility for replenishing or refurbishing depleted supplies used by security personnel.
 
-#### G. Equipment Sign-Out Accountability
+**Resolved:** Added to `draft/08 Additional Information.md` differentiators list — vendor responsibility for supply replenishment/refurbishment at no additional cost to WMCHealth.
+
+#### G. Equipment Sign-Out Accountability — [x] Completed
 Not addressed in the draft.
 
 **Action:** Add one sentence stating that WMCHealth-issued equipment will be tracked via sign-out logs maintained by the Compliance/Training Coordinator.
 
-#### H. HazMat, Missing/Abducted Child, and Non-Patient Medical Emergency Response
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.2 — Compliance/Training Coordinator function expanded to include WMCHealth-issued equipment sign-out log maintenance.
+
+#### H. HazMat, Missing/Abducted Child, and Non-Patient Medical Emergency Response — [x] Completed
 Training section uses generic "emergency codes" language without naming these three specifically.
 
 **Action:** Expand the training program to explicitly list:
@@ -99,24 +111,32 @@ Training section uses generic "emergency codes" language without naming these th
 - Infant/child abduction (Code Pink) protocols
 - Non-patient medical emergency response (CPR/AED application)
 
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.5 — "Emergency code response" bullet expanded to name fire/active-threat, HazMat, Code Pink, and non-patient medical emergency (CPR/AED) as separate line items.
+
 ---
 
 ### Priority 3 — Minor Administrative Additions
 
-#### I. Medical Clearance Documentation
+#### I. Medical Clearance Documentation — [x] Completed
 The Compliance/Training Coordinator role description covers training records but does not explicitly mention medical clearances.
 
 **Action:** Add medical clearance records (COVID, MMR/Varicella, TB, drug screen, physical) to the Compliance Coordinator's recordkeeping responsibilities.
 
-#### J. Electronic Records Management Platform
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.7 — personnel records bullet explicitly names COVID-19, MMR/Varicella, TB clearance, drug screen, and health form/physical as required on-site documentation.
+
+#### J. Electronic Records Management Platform — [x] Completed
 Conceptually mentioned in the draft but the system is not named.
 
 **Action:** Add one sentence confirming that the vendor will use WMCHealth's existing Omingo records management platform and will not propose a replacement without WMCHealth's direction.
 
-#### K. On-Site Personnel Records — Immediate Inspection Readiness
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.5 training list — "Incident reporting and electronic documentation using WMCHealth's existing Omingo records management platform."
+
+#### K. On-Site Personnel Records — Immediate Inspection Readiness — [x] Completed
 Assigned to the Compliance Coordinator but the on-site organization standard is not stated.
 
 **Action:** Add language that personnel records are maintained on-site in neat and orderly fashion and available for immediate inspection, per RFP requirements.
+
+**Resolved:** Added to `draft/07 Staffing Proposal.md` section 1.7 — combined with item I; records maintained on-site at each facility, neat and orderly, available for immediate inspection upon request.
 
 ---
 

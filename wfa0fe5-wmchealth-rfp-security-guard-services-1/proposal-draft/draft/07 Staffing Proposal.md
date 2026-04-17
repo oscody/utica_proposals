@@ -17,6 +17,8 @@ The proposed staffing structure is intended to support:
 - Vehicle patrols and campus roving coverage
 - Courier and shuttle support where required
 
+Officers assigned to lobby and concierge roles will provide professional visitor reception, wayfinding assistance, and visitor management support at designated entrance and lobby areas. These officers serve as the first point of contact for patients, families, and visitors and will be trained to the customer service standards described in section 1.4. Concierge coverage is distinct from screening and patrol functions and will be staffed accordingly per WMCHealth's post orders.
+
 ## 1.2 Proposed Project Team Structure
 
 | Role | Function | Level of Effort |
@@ -29,7 +31,7 @@ The proposed staffing structure is intended to support:
 | Armed Security Officers | Armed coverage at designated facilities | 24/7 at required sites |
 | Unarmed Security Officers | Screening, concierge, patrol, and support assignments | Per finalized staffing plan |
 | Relief/Floater Staff | Call-out coverage, surge response, schedule resilience | Maintained as reserve capacity |
-| Compliance/Training Coordinator | Training records, onboarding, certification tracking | Ongoing support |
+| Compliance/Training Coordinator | Training records, onboarding, certification tracking, medical clearance documentation, WMCHealth-issued equipment sign-out log maintenance | Ongoing support |
 
 ## 1.3 Staffing Justification
 
@@ -44,6 +46,10 @@ WMCHealth's scope requires a vendor with enough operational depth to support dif
 - Need for immediate response to panic alarms, emergency codes, workplace violence, and active-threat events
 
 For those reasons, the model includes dedicated management oversight, shift-level supervision, reserve coverage capacity, and a compliance function rather than relying solely on a scheduler and frontline officers.
+
+Regarding prisoner and forensic patient responsibilities: Utica Security Services Inc. understands that security officers have no custody responsibilities for prisoners or forensic patients at WMCHealth facilities. Forensic patients are secured and managed by federal, state, and local law enforcement agencies. Security officers will interact and liaise with such law enforcement agencies as needed, and provide increased rounding in areas where forensic patients are present.
+
+Utica Security Services Inc. commits to providing 24/7 armed security officer coverage at all required WMCHealth locations, including Westchester Medical Center (Valhalla), MidHudson Regional Hospital, HealthAlliance of the Hudson Valley, Good Samaritan Hospital, St. Anthony's Community Hospital, and Bon Secours Community Hospital. Specific armed post assignments and officer counts will be finalized in accordance with WMCHealth's post orders and confirmed prior to contract start.
 
 ## 1.4 Customer Service Training
 
@@ -71,11 +77,14 @@ Utica Security Services Inc. would implement a healthcare-oriented training prog
 - Behavioral health awareness and crisis-response principles
 - Workplace violence recognition and response
 - Active shooter and panic alarm response
-- Emergency code response
+- Emergency code response, including fire emergencies and active-threat events
+- HazMat incident response
+- Infant/child abduction (Code Pink) protocols
+- Non-patient medical emergency response (CPR/AED application)
 - Visitor screening and weapons detection procedures
 - Patient property safeguarding procedures
 - Escort and transportation safety procedures
-- Incident reporting and electronic documentation
+- Incident reporting and electronic documentation using WMCHealth's existing Omingo records management platform
 - Use of force, restraint support limits, and lawful escalation
 - Customer-service and communication standards
 
@@ -106,3 +115,5 @@ The Q&A also clarifies the following operating assumptions relevant to staffing:
 - All posts are considered essential and coverage is expected at all times, including call-outs and PTO coverage.
 - HealthAlliance dual-role positions are split-duty roles, and certifications for those specialized roles are optional, preferred, but not required.
 - Retention of existing personnel remains possible and should be addressed as part of the transition approach.
+- Two security officers will be deployed in administrative support roles at Valhalla per RFP Section 4. Specific hours and duties for these positions are subject to WMCHealth's post orders and will be confirmed before contract start.
+- Personnel records for all assigned officers will be maintained on-site at each facility in a neat and orderly fashion and made available for immediate inspection upon request. Records will include current medical clearances (COVID-19 vaccination, MMR and Varicella immunity, TB clearance, drug screen, and current health form/physical), initial and annual training documentation, state licenses, and all other required certifications.
