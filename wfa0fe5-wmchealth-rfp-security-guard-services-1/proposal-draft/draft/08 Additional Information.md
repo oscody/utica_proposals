@@ -25,5 +25,3 @@ Utica Security Services Inc. is positioned to bring a hands-on, oversight-driven
 ## Additional Value To WMCHealth
 
 If selected, Utica Security Services Inc. would work with WMCHealth to validate post orders, confirm site-by-site operating expectations, establish reporting cadence, and refine the transition plan around the realities of each campus. This approach is intended to reduce implementation risk while improving consistency, transparency, and service accountability from the first day of contract performance.
-
-The Q&A also suggests that WMCHealth is open to well-developed value-added recommendations and transition suggestions. That creates room to present a disciplined operating model with stronger training, oversight, reporting, and transition planning as part of the final proposal package.

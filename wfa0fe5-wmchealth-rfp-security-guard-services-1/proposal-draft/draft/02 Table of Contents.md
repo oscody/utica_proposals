@@ -1,4 +1,4 @@
-# Table of Contents #todo
+# Table of Contents
 
 1. Title Page
 2. Table of Contents
