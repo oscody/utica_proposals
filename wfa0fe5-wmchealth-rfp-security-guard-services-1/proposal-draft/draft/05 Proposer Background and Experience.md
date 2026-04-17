@@ -27,7 +27,7 @@ Utica Security Services Inc. provides and manages services that include:
 
 ## 1.3 Firm Profile
 
-| Required Item | Draft Response |
+| Required Item | Response |
 | :---- | :---- |
 | Date organized | `April 7, 2021` |
 | If incorporated, when and where | `April 7, 2021, New York` |
@@ -73,6 +73,6 @@ Utica Security Services Inc. provides and manages services that include:
 | Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
 | Training/Compliance Lead | `Oneil Bogle` | Training records, onboarding, certification tracking, and compliance oversight |
 
-## 1.7 Financial Statement \#todo
+## 1.7 Financial Statement
 
 Utica Security Services Inc.'s most recent financial statement is included as an attachment to this proposal.

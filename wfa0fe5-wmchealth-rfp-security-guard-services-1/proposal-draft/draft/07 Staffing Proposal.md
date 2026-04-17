@@ -67,7 +67,7 @@ Customer-service expectations would be reinforced through orientation, post-orde
 
 ## 1.5 Initial and Ongoing Training
 
-Utica Security Services Inc. would implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. Based on the Q&A materials, the core training program should include:
+Utica Security Services Inc. will implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. The core training program includes:
 
 - WMCHealth Orientation (8 hours)
 - Annual WMCHealth net-learning as required
@@ -103,17 +103,12 @@ The following service metrics are proposed as a starting KPI framework for WMCHe
 | Management escalation response | Immediate phone response, on-site response based on severity |
 | Corrective action closure | Tracked to completion within defined timelines |
 
-## 1.7 Staffing Assumptions
+## 1.7 Staffing Commitments and Operating Standards
 
-This draft staffing proposal remains primarily narrative-based, but the April 14, 2026 Q&A materially improves the available staffing picture by providing a chart with baseline weekly hours by location and role. Before final submission, the staffing proposal should be supplemented with either:
+Utica Security Services Inc. commits to the following staffing and operational standards for this engagement:
 
-- A site-by-site staffing schedule derived from the Q&A chart and any internal pricing/staffing assumptions, or
-- A management staffing matrix plus narrative assumptions if WMCHealth prefers conceptual staffing before interviews and walkthroughs
-
-The Q&A also clarifies the following operating assumptions relevant to staffing:
-
-- All posts are considered essential and coverage is expected at all times, including call-outs and PTO coverage.
-- HealthAlliance dual-role positions are split-duty roles, and certifications for those specialized roles are optional, preferred, but not required.
-- Retention of existing personnel remains possible and should be addressed as part of the transition approach.
+- All posts are considered essential. Full coverage is maintained at all times, including during call-outs and PTO. The vendor is responsible for providing relief coverage without gaps.
+- HealthAlliance dual-role positions (systems integrator, locksmith, investigator, electronics specialist) will be filled by cross-trained officers capable of performing both security and technical functions. Specialized certifications are preferred but not required.
 - Two security officers will be deployed in administrative support roles at Valhalla per RFP Section 4. Specific hours and duties for these positions are subject to WMCHealth's post orders and will be confirmed before contract start.
+- Retention of existing incumbent personnel will be considered and discussed with WMCHealth during the transition process.
 - Personnel records for all assigned officers will be maintained on-site at each facility in a neat and orderly fashion and made available for immediate inspection upon request. Records will include current medical clearances (COVID-19 vaccination, MMR and Varicella immunity, TB clearance, drug screen, and current health form/physical), initial and annual training documentation, state licenses, and all other required certifications.

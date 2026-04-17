@@ -2,7 +2,7 @@
 
 ## 1.1 Experience With Comparable Operations
 
-Utica Security Services Inc. has experience supporting environments that require continuous coverage, visible security presence, disciplined escalation, and consistent documentation. Based on the source proposal materials available in the workspace, the firm's demonstrated strengths include:
+Utica Security Services Inc. has experience supporting environments that require continuous coverage, visible security presence, disciplined escalation, and consistent documentation. The firm's demonstrated strengths include:
 
 - Multi-site staffing and supervision
 - Fixed-post and patrol coverage
@@ -16,7 +16,7 @@ These capabilities are relevant to WMCHealth's requirements, especially where se
 
 ## 1.2 Relevance To WMCHealth Scope
 
-WMCHealth's scope requires officers who can move beyond static guarding and operate as part of a broader healthcare safety program. The draft proposal is therefore framed around the following healthcare-relevant competencies:
+WMCHealth's scope requires officers who can move beyond static guarding and operate as part of a broader healthcare safety program. Utica Security Services Inc. brings the following healthcare-relevant competencies:
 
 - Calm interaction in stressful and emotionally charged environments
 - Strong de-escalation and crisis-response posture

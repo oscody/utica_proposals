@@ -4,11 +4,11 @@
 
 Utica Security Services Inc. offers a combination of operational discipline, management responsiveness, and adaptable field execution that fits the complexity of the WMCHealth environment. WMCHealth is not seeking a commodity guard vendor. It is seeking a partner able to sustain coverage across multiple campuses while supporting control center functions, screening operations, behavioral-health-sensitive assignments, emergency response, and patient- and visitor-facing interactions. That requires more than staffing. It requires management control.
 
-The differentiators emphasized in this draft proposal are:
+Utica Security Services Inc. offers the following differentiators:
 
 - A service model built around active supervision instead of passive post filling
 - Strong de-escalation and emergency-response orientation for high-stress environments
-- Willingness to furnish uniforms, vehicles, field equipment, and armed-post support in line with the RFP and Q&A clarifications
+- Willingness to furnish uniforms, vehicles, field equipment, and armed-post support in line with RFP requirements
 - Responsibility for replenishing or refurbishing depleted supplies used by security personnel at no additional cost to WMCHealth
 - Structured reporting, recordkeeping, inspections, and corrective action processes
 - A practical understanding that healthcare security must balance safety, professionalism, patient dignity, and public confidence
