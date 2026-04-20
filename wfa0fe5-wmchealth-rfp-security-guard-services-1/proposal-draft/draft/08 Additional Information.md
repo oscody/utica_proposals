@@ -26,3 +26,19 @@ Utica Security Services Inc. is positioned to bring a hands-on, oversight-driven
 ## Additional Value To WMCHealth
 
 If selected, Utica Security Services Inc. would work with WMCHealth to validate post orders, confirm site-by-site operating expectations, establish reporting cadence, and refine the transition plan around the realities of each campus. This approach is intended to reduce implementation risk while improving consistency, transparency, and service accountability from the first day of contract performance.
+
+## Insurance
+
+If awarded this contract, Utica Security Services Inc. will obtain and maintain all required insurance coverages at or above the minimum limits specified in the RFP prior to the contract start date. Certificates of insurance naming WMCHealth and its affiliates as additional insureds will be provided before commencement of services. Required coverages include:
+
+| Coverage | Minimum Limit |
+| :---- | :---- |
+| Workers' Compensation & Disability | Per statutory requirements |
+| Employer's Liability | $1,000,000 |
+| Commercial General Liability | $5,000,000 |
+| Firearms Liability | $2,000,000 |
+| Professional Liability | $2,000,000 |
+| Fidelity Bond / 3-D Policy | As specified by WMCHealth |
+| Automobile Liability | $2,000,000 |
+| Cyber Liability | $5,000,000 per occurrence |
+| Excess / Umbrella Liability | As specified by WMCHealth |

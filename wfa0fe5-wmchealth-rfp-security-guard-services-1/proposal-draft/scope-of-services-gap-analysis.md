@@ -33,7 +33,7 @@ The following requirements are well-covered across the current draft files:
 
 ### Priority 1 — Critical (missing entirely)
 
-#### A. Insurance Schedule
+#### A. Insurance Schedule — [x] Completed
 All 9 required coverages are completely absent from every draft file.
 - Workers' Compensation & Disability compliance documents
 - Employer's Liability: $1,000,000
@@ -46,6 +46,8 @@ All 9 required coverages are completely absent from every draft file.
 - Excess Liability / Umbrella Insurance
 
 **Action:** Add a statement committing to carry all required coverages at the specified limits. Actual certificates of insurance will be provided upon award.
+
+**Resolved:** Added `## Insurance` section to `draft/08 Additional Information.md` — commits to obtaining all 9 coverages at required limits if awarded the contract; certificates provided before contract start; WMCHealth named as additional insured.
 
 #### B. Prisoner Management — [x] Completed
 The RFP requires the vendor to address prisoner responsibilities. Currently not mentioned anywhere in the draft.
