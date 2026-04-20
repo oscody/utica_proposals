@@ -4,16 +4,17 @@
 
 ## Westchester Medical Center Health Network
 
-RFP Number: `WFA0FE5`  
-RFP Title: `Security Guard Services`
+**RFP Number: `WFA0FE5`**  
+**RFP Title: `Security Guard Services`**
 
-Submitted by: `Utica Security Services Inc.`  
-Address: `165-45A Baisley Boulevard, Suite 8 & 9, Jamaica, NY 11434`
+**Submitted by: `Utica Security Services Inc.`**  
+**Address: `165-45A Baisley Boulevard, Suite 8 & 9, Jamaica, NY 11434`**
 
-Proposal Contact: `[Oneil Bogle, Operations, 347)-548-5829, uticassi1@gmail.com]`  
-Authorized Signatory: `[Name, Title, Phone, Email]`
+**Proposal Contact: `Oneil Bogle, Operations, 347)-548-5829, uticassi1@gmail.com`**
 
-Date: `4.20.16`
+**Authorized Signatory: `Charles Uti, President, 617-961-2924, uticassi@gmail.com`**
+
+**Date: `04.20.2026`**
 
 # Table of Contents
 
@@ -35,7 +36,7 @@ Date: `4.20.16`
 
 # Transmittal Letter
 
-\[Submission Date\]
+`4.20.16`
 
 Robert Gazzola  
 Chief Security Officer  
@@ -53,31 +54,23 @@ Re: `WFA0FE5 - Security Guard Services`
 
 Dear Mr. Gazzola and Ms. Gordon-Poyser:
 
-Utica Security Services Inc. respectfully submits this proposal in response to WMCHealth Request for Proposals `WFA0FE5` for Security Guard Services. We appreciate the opportunity to present our qualifications and our operating approach for supporting security operations across the WMCHealth network.
+Utica Security Services Inc. respectfully submits this proposal in response to WMCHealth Request for Proposals **`WFA0FE5`** for Security Guard Services. We appreciate the opportunity to present our qualifications and our operating approach for supporting security operations across the WMCHealth network.
 
 The undersigned is authorized to bind Utica Security Services Inc. contractually with respect to this proposal and any resulting agreement. The authorized signatory for this proposal is:
 
-`[Authorized Signatory Name]`  
-`[Title]`  
-`[Business Address]`  
-`[Telephone]`  
-`[Email]`
+`Charles Uti`                                                                                    
+`Executive Sponsor / President/Owner`   
+`165-45A Baisley Boulevard, Suite 8 & 9, Jamaica, NY 11434`                                      
+`617-961-2924`                                                                            
+`uticassi1@gmail.com`
 
-If different from the authorized signatory, the primary proposal contact is:
-
-`[Proposal Contact Name]`  
-`[Title]`  
-`[Business Address]`  
-`[Telephone]`  
-`[Email]`
-
-Utica Security Services Inc. is willing to enter into a contractual agreement containing, at a minimum, the terms and conditions set forth in Attachment A of the RFP, subject to final legal review. Any specific exceptions to Attachment A, if any, will be identified in a separate contract exceptions section before final submission. As of this draft, no exceptions are asserted.
+Utica Security Services Inc. is willing to enter into a contractual agreement containing, at a minimum, the terms and conditions set forth in Attachment A of the RFP. No exceptions to Attachment A are asserted.
 
 In preparing this proposal, we have assumed that:
 
-- WMCHealth may refine post orders, site-specific staffing expectations, and transition sequencing after proposal review and any site walkthroughs.  
-- Existing operations vary by campus and may include a combination of incumbent vendor practices and internally staffed models.  
-- Final staffing deployment, armed post assignments, and transition milestones will be validated jointly with WMCHealth before contract start.
+* WMCHealth may refine post orders, site-specific staffing expectations, and transition sequencing after proposal review and any site walkthroughs.  
+* Existing operations vary by campus and may include a combination of incumbent vendor practices and internally staffed models.  
+* Final staffing deployment, armed post assignments, and transition milestones will be validated jointly with WMCHealth before contract start.
 
 Utica Security Services Inc. is prepared to provide professional, scalable, and accountable security services across a complex healthcare environment that includes acute care hospitals, behavioral health areas, visitor screening, control center functions, patrol operations, and emergency response support.
 
@@ -85,8 +78,8 @@ We appreciate your consideration and welcome the opportunity to discuss our prop
 
 Sincerely,
 
-`[Authorized Signatory Name]`  
-`[Title]`  
+`Charles Uti`                                                                                    
+President/Owner  
 Utica Security Services Inc.
 
 # Executive Summary
@@ -121,24 +114,24 @@ Founded on the principles of discipline, professionalism, and integrity, Utica S
 
 Utica Security Services Inc. provides and manages services that include:
 
-- Fixed-post security coverage  
-- Roving patrols and perimeter checks  
-- Access control and visitor management  
-- Incident response and escalation support  
-- De-escalation-focused public-facing security services  
-- Control desk and monitoring functions  
-- Supervisory oversight and quality assurance inspections  
-- Staffing management, relief coverage, and 24/7 on-call escalation  
-- Incident documentation and electronic reporting support  
-- Site supervision and 24/7 on-call management  
-- Access control and patrol services  
-- Staffing coverage integrity and performance oversight  
-- Incident response and de-escalation  
-- Multi-site operational deployment
+* Fixed-post security coverage  
+* Roving patrols and perimeter checks  
+* Access control and visitor management  
+* Incident response and escalation support  
+* De-escalation-focused public-facing security services  
+* Control desk and monitoring functions  
+* Supervisory oversight and quality assurance inspections  
+* Staffing management, relief coverage, and 24/7 on-call escalation  
+* Incident documentation and electronic reporting support  
+* Site supervision and 24/7 on-call management  
+* Access control and patrol services  
+* Staffing coverage integrity and performance oversight  
+* Incident response and de-escalation  
+* Multi-site operational deployment
 
 ## 1.3 Firm Profile
 
-| Required Item | Draft Response |
+| Required Item | Response |
 | :---- | :---- |
 | Date organized | `April 7, 2021` |
 | If incorporated, when and where | `April 7, 2021, New York` |
@@ -179,9 +172,9 @@ Utica Security Services Inc. provides and manages services that include:
 | Proposed Role | Name | Primary Responsibility |
 | :---- | :---- | :---- |
 | Executive Sponsor | `Charles Uti` | Contract authority and executive escalation |
-| Director of Operations | `Uche Uti` | Oversight of multi-site operations, staffing adequacy, resource allocation, performance metrics, QA, and training initiatives |
+| Director of Operations | `Uchey Charles-Uti` | Oversight of multi-site operations, staffing adequacy, resource allocation, performance metrics, QA, and training initiatives |
 | Operations Manager | `Irene Ero` | Day-to-day security operations management, investigations, access control, screening operations, emergency response coordination, and performance management |
-| Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
+| Lead Site Supervisor | `Christopher Ferguerson` | Field supervision, post-order enforcement, report review, inspections, staffing coverage checks, and incident escalation |
 | Training/Compliance Lead | `Oneil Bogle` | Training records, onboarding, certification tracking, and compliance oversight |
 
 ## 1.7 Financial Statement \#todo
@@ -208,7 +201,7 @@ These capabilities are relevant to WMCHealth's requirements, especially where se
 
 ## 1.2 Relevance To WMCHealth Scope
 
-WMCHealth's scope requires officers who can move beyond static guarding and operate as part of a broader healthcare safety program. The draft proposal is therefore framed around the following healthcare-relevant competencies:
+WMCHealth's scope requires officers who can move beyond static guarding and operate as part of a broader healthcare safety program. Utica Security Services Inc. brings the following healthcare-relevant competencies:
 
 * Calm interaction in stressful and emotionally charged environments  
 * Strong de-escalation and crisis-response posture  
@@ -281,6 +274,8 @@ The proposed staffing structure is intended to support:
 * Vehicle patrols and campus roving coverage  
 * Courier and shuttle support where required
 
+Officers assigned to lobby and concierge roles will provide professional visitor reception, wayfinding assistance, and visitor management support at designated entrance and lobby areas. These officers serve as the first point of contact for patients, families, and visitors and will be trained to the customer service standards described in section 1.4. Concierge coverage is distinct from screening and patrol functions and will be staffed accordingly per WMCHealth's post orders.
+
 ## 1.2 Proposed Project Team Structure
 
 | Role | Function | Level of Effort |
@@ -293,7 +288,7 @@ The proposed staffing structure is intended to support:
 | Armed Security Officers | Armed coverage at designated facilities | 24/7 at required sites |
 | Unarmed Security Officers | Screening, concierge, patrol, and support assignments | Per finalized staffing plan |
 | Relief/Floater Staff | Call-out coverage, surge response, schedule resilience | Maintained as reserve capacity |
-| Compliance/Training Coordinator | Training records, onboarding, certification tracking | Ongoing support |
+| Compliance/Training Coordinator | Training records, onboarding, certification tracking, medical clearance documentation, WMCHealth-issued equipment sign-out log maintenance | Ongoing support |
 
 ## 1.3 Staffing Justification
 
@@ -308,6 +303,10 @@ WMCHealth's scope requires a vendor with enough operational depth to support dif
 * Need for immediate response to panic alarms, emergency codes, workplace violence, and active-threat events
 
 For those reasons, the model includes dedicated management oversight, shift-level supervision, reserve coverage capacity, and a compliance function rather than relying solely on a scheduler and frontline officers.
+
+Regarding prisoner and forensic patient responsibilities: Utica Security Services Inc. understands that security officers have no custody responsibilities for prisoners or forensic patients at WMCHealth facilities. Forensic patients are secured and managed by federal, state, and local law enforcement agencies. Security officers will interact and liaise with such law enforcement agencies as needed, and provide increased rounding in areas where forensic patients are present.
+
+Utica Security Services Inc. commits to providing 24/7 armed security officer coverage at all required WMCHealth locations, including Westchester Medical Center (Valhalla), MidHudson Regional Hospital, HealthAlliance of the Hudson Valley, Good Samaritan Hospital, St. Anthony's Community Hospital, and Bon Secours Community Hospital. Specific armed post assignments and officer counts will be finalized in accordance with WMCHealth's post orders and confirmed prior to contract start.
 
 ## 1.4 Customer Service Training
 
@@ -325,7 +324,7 @@ Customer-service expectations would be reinforced through orientation, post-orde
 
 ## 1.5 Initial and Ongoing Training
 
-Utica Security Services Inc. would implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. Based on the Q\&A materials, the core training program should include:
+Utica Security Services Inc. will implement a healthcare-oriented training program that aligns with WMCHealth requirements and site conditions. The core training program includes:
 
 * WMCHealth Orientation (8 hours)  
 * Annual WMCHealth net-learning as required  
@@ -335,11 +334,14 @@ Utica Security Services Inc. would implement a healthcare-oriented training prog
 * Behavioral health awareness and crisis-response principles  
 * Workplace violence recognition and response  
 * Active shooter and panic alarm response  
-* Emergency code response  
+* Emergency code response, including fire emergencies and active-threat events  
+* HazMat incident response  
+* Infant/child abduction (Code Pink) protocols  
+* Non-patient medical emergency response (CPR/AED application)  
 * Visitor screening and weapons detection procedures  
 * Patient property safeguarding procedures  
 * Escort and transportation safety procedures  
-* Incident reporting and electronic documentation  
+* Incident reporting and electronic documentation using WMCHealth's existing Omingo records management platform  
 * Use of force, restraint support limits, and lawful escalation  
 * Customer-service and communication standards
 
@@ -358,18 +360,15 @@ The following service metrics are proposed as a starting KPI framework for WMCHe
 | Management escalation response | Immediate phone response, on-site response based on severity |
 | Corrective action closure | Tracked to completion within defined timelines |
 
-## 1.7 Staffing Assumptions
+## 1.7 Staffing Commitments and Operating Standards
 
-This draft staffing proposal remains primarily narrative-based, but the April 14, 2026 Q\&A materially improves the available staffing picture by providing a chart with baseline weekly hours by location and role. Before final submission, the staffing proposal should be supplemented with either:
+Utica Security Services Inc. commits to the following staffing and operational standards for this engagement:
 
-* A site-by-site staffing schedule derived from the Q\&A chart and any internal pricing/staffing assumptions, or  
-* A management staffing matrix plus narrative assumptions if WMCHealth prefers conceptual staffing before interviews and walkthroughs
-
-The Q\&A also clarifies the following operating assumptions relevant to staffing:
-
-* All posts are considered essential and coverage is expected at all times, including call-outs and PTO coverage.  
-* HealthAlliance dual-role positions are split-duty roles, and certifications for those specialized roles are optional, preferred, but not required.  
-* Retention of existing personnel remains possible and should be addressed as part of the transition approach.
+* All posts are considered essential. Full coverage is maintained at all times, including during call-outs and PTO. The vendor is responsible for providing relief coverage without gaps.  
+* HealthAlliance dual-role positions (systems integrator, locksmith, investigator, electronics specialist) will be filled by cross-trained officers capable of performing both security and technical functions. Specialized certifications are preferred but not required.  
+* Two security officers will be deployed in administrative support roles at Valhalla per RFP Section 4\. Specific hours and duties for these positions are subject to WMCHealth's post orders and will be confirmed before contract start.  
+* Retention of existing incumbent personnel will be considered and discussed with WMCHealth during the transition process.  
+* Personnel records for all assigned officers will be maintained on-site at each facility in a neat and orderly fashion and made available for immediate inspection upon request. Records will include current medical clearances (COVID-19 vaccination, MMR and Varicella immunity, TB clearance, drug screen, and current health form/physical), initial and annual training documentation, state licenses, and all other required certifications.
 
 # Additional Information
 
@@ -379,11 +378,11 @@ The Q\&A also clarifies the following operating assumptions relevant to staffing
 
 Utica Security Services Inc. offers a combination of operational discipline, management responsiveness, and adaptable field execution that fits the complexity of the WMCHealth environment. WMCHealth is not seeking a commodity guard vendor. It is seeking a partner able to sustain coverage across multiple campuses while supporting control center functions, screening operations, behavioral-health-sensitive assignments, emergency response, and patient- and visitor-facing interactions. That requires more than staffing. It requires management control.
 
-The differentiators emphasized in this draft proposal are:
+Utica Security Services Inc. offers the following differentiators:
 
 * A service model built around active supervision instead of passive post filling  
 * Strong de-escalation and emergency-response orientation for high-stress environments  
-* Willingness to furnish uniforms, vehicles, field equipment, and armed-post support in line with the RFP and Q\&A clarifications  
+* Willingness to furnish uniforms, vehicles, field equipment, and armed-post support in line with RFP requirements  
 * Structured reporting, recordkeeping, inspections, and corrective action processes  
 * A practical understanding that healthcare security must balance safety, professionalism, patient dignity, and public confidence
 
@@ -399,7 +398,7 @@ Utica Security Services Inc. is positioned to bring a hands-on, oversight-driven
 
 ## Additional Value To WMCHealth
 
-If selected, Utica Security Services Inc. would work with WMCHealth to validate post orders, confirm site-by-site operating expectations, establish reporting cadence, and refine the transition plan around the realities of each campus. This approach is intended to reduce implementation risk while improving consistency, transparency, and service accountability from the first day of contract performance.
+When selected, Utica Security Services Inc. would work with WMCHealth to validate post orders, confirm site-by-site operating expectations, establish reporting cadence, and refine the transition plan around the realities of each campus. This approach is intended to reduce implementation risk while improving consistency, transparency, and service accountability from the first day of contract performance.
 
 # Conflicts of Interest and Disclosures
 
