@@ -1,0 +1,31 @@
+# Pricing Wages And Payment Rules
+
+- Pricing must be entered on the Form of Proposal in figures and words.
+- Pricing must include cost of hourly rate for an armed security guard for the 2026-2027 school year.
+- Pricing must include nighttime differential for armed security guard if applicable.
+- Pricing must include overtime hourly rate for armed security guard.
+- Pricing must include holiday rate for armed security guard for federal holidays.
+- For calculation purposes only, use 180 days as the estimated number of service days for the 2026-2027 school year.
+- Regular school day means Monday through Friday, excluding school holidays on the District calendar.
+- Weekend day means Saturday and/or Sunday during the contract term.
+- If renewed, use the District calendar to calculate number and type of service days.
+- District requires 14 armed security guards on each school day unless otherwise noted.
+- Smithtown High School East and Smithtown High School West each require two armed security guards.
+- Each other listed school requires one armed security guard.
+- District may order additional services or deduct services at its sole discretion.
+- Contractor has no expectation that additional services will be ordered in any particular amount.
+- No federal, state, or municipal sales or excise taxes may be charged because the District is exempt.
+- Successful proposer is responsible for applicable taxes for work and services performed.
+- Prevailing wage applies under New York State Labor Law and PRC #2026900471.
+- Contractor must comply with all New York State Labor Laws, including prevailing wage requirements.
+- Certified payroll must be submitted; no payments will be made if certified payroll has not been submitted.
+- Payroll transcripts must be submitted within 30 days after issuance of first payroll and every 30 days thereafter.
+- Invoices must be submitted monthly.
+- Payment is due within 30 days from District receipt of invoice.
+- Invoice must include time logs, attendance, types of services rendered, and fees payable.
+- Certified payroll must be submitted with invoices.
+- Contractor bears all performance costs and expenses, including vehicles, equipment, fees, fines, licenses, bonds, taxes, and costs of doing business.
+- The District is not responsible for contractor expenses incurred in performing services.
+- Current prevailing wage schedule in the RFP lists Suffolk County Article 9 Security Guard Armed wage at $33.93 per hour and supplemental benefits at $2.46 per hour for 07/01/2025 through 06/30/2026.
+- Current schedule lists overtime codes B and B3, meaning time and one half after 8 hours per day and after 40 straight hours per week.
+- Verify any updated prevailing wage schedule or addendum before final pricing.

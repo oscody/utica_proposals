@@ -1,0 +1,26 @@
+# Contract Terms And Compliance Rules
+
+- Contract commences upon award and remains in effect through June 30, 2027 unless terminated earlier.
+- Board may renew for additional one-year periods not to exceed five years on the same terms and conditions.
+- Price increases on anniversary dates of the second and later contract years are limited by New York State property tax cap law and CPI-U New York-Northern New Jersey May index, not to exceed 2%.
+- Negative CPI results in equivalent price reduction.
+- Written request for price increase must be submitted at least 60 days before anniversary date.
+- Contract is non-exclusive.
+- No contract is binding until funds are approved and the Board of Education approves the contract.
+- Contract documents include Notice to Proposers, Instructions to Proposers, Non-Collusive Certificate, General Conditions, Proposal Specifications, successful proposal response, Purchase Order, and formal agreement.
+- Successful proposer may not assign or subcontract any part of the contract without prior written District approval.
+- Proposer office must be staffed by competent representatives available 24 hours per day and authorized to handle contract matters.
+- Liquidated damages are $125 per calendar day for each day services are not performed or criteria are not met.
+- District may terminate for cause immediately upon written notice if contractor fails to perform required services or other contract provisions.
+- District may terminate for convenience by giving seven days' written notice.
+- Cancellation may remove successful proposer from future proposal mailing lists for an indeterminate period.
+- Contractor must comply with all applicable federal, state, county, and local laws, rules, regulations, and ordinances.
+- Contractor must comply with OSHA, SOSHA, Right to Know Act, New York Labor Law, Environmental Conservation laws, and anti-discrimination laws.
+- Contractor and employees must obey District rules and reasonable directives while on District property.
+- Contractor employees must not create a nuisance, interfere with students or employees, destroy property, or enter unauthorized areas except in life-or-death emergency.
+- District may remove or request removal of contractor employees with or without cause.
+- Contractor must comply with District Drug and Alcohol Free Workplace policy; illegal drugs, controlled substances, drug paraphernalia, designer drugs, alcohol, and tobacco products are prohibited in places or vehicles under school jurisdiction.
+- Contractor must repair or replace damage caused by negligence or accidents involving employees or vehicles.
+- Confidential information obtained through services must not be used, published, discussed, disclosed, or communicated to third parties except as allowed by the agreement.
+- Confidentiality obligations survive expiration or termination.
+- Successful contractor must complete annual attestation/certification for each contract year and renewal.

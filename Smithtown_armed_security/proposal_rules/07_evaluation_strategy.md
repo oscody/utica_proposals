@@ -1,0 +1,22 @@
+# Evaluation Strategy Rules
+
+- Completeness of response is pass/fail.
+- Responses that do not include required proposal content and do not address listed items are incomplete, rated fail, and receive no further consideration.
+- Debarment and suspension status is pass/fail.
+- Bidder, principal, and named subcontractors must not be identified on federal debarred, suspended, or excluded party lists at `www.sam.gov`.
+- Cost is worth 20 points.
+- Cost points are calculated by dividing the lowest responsive hourly rate by the proposer hourly rate and multiplying by maximum points.
+- District may also evaluate reasonableness, realism, and affordability of proposed cost.
+- Implementation Plan and Schedule is worth 20 points.
+- Implementation evaluation asks whether proposer understands the District schedule and can meet it.
+- Implementation evaluation asks whether proposer clearly outlines staffing and training plans to ensure no lapse in post coverage.
+- Relevant Experience is worth 30 points.
+- Relevant experience evaluation asks how many years proposer has continuously provided armed security guard services.
+- Relevant experience evaluation asks how many years proposer has continuously provided security guard services in New York State public school districts.
+- Understanding of the Project is worth 20 points.
+- Project understanding evaluation asks whether proposer demonstrates thorough understanding of project purpose and scope.
+- Project understanding evaluation asks whether proposer understands expected deliverables.
+- Project understanding evaluation asks whether proposer demonstrates experience mitigating security issues.
+- References are worth 10 points.
+- Proposal narratives should directly map to these criteria and make scoring evidence easy to find.
+- The strongest response should emphasize public school district armed security experience, continuity of post coverage, staffing depth, training, emergency readiness, SAVE clearance, firearms qualifications, and references comparable in size and scope.

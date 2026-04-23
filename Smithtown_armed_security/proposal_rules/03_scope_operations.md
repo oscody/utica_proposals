@@ -1,0 +1,30 @@
+# Scope And Operations Rules
+
+- The District seeks labor, equipment, and services necessary to deliver uniformed armed security guard services.
+- Services cover District locations identified in the RFP, including high schools, middle schools, and elementary schools.
+- Contractor must protect buildings, grounds, and occupants from unlawful entry that could result in bodily harm.
+- Guards are expected to be primarily stationed outside school buildings.
+- The District may relocate guards anywhere on school grounds at its discretion, subject to prior written approval.
+- Guards stationed outside must remain in proposer-provided vehicles or personal vehicles if appropriate automobile insurance is maintained.
+- No reimbursement is provided for fuel or personal mileage.
+- Guards may be required to perform foot patrols around grounds as needed.
+- Services are expected during the entire school year, Monday through Friday, during routine District business hours, with hours subject to District modification.
+- Guards are expected to be on school grounds at least 30 minutes before student arrival and remain at least 30 minutes after the school day unless otherwise required.
+- The proposer should assign the same guards to each building as much as possible to promote familiarity and continuity.
+- Coverage must remain continuous during lunch breaks and rest periods; additional armed guards must cover breaks when needed.
+- The District anticipates summer services at certain locations on an hourly basis.
+- District-approved uniforms are required while performing duties.
+- Contractor must be prepared to provide uniformed armed security for authorized District events outside standard school hours or the academic calendar.
+- Contractor must have sufficient staff to cover District needs.
+- No travel time will be paid.
+- Payment will be made only for services actually rendered.
+- Smoking is prohibited anywhere on school grounds.
+- Guards must carry company-issued cellular devices and a two-way radio or other mobile communication method.
+- Contractor employees must not fraternize with students.
+- Incidents must be immediately reported to appropriate public authorities and District officials as required.
+- Contractor must provide verbal incident reports by close of shift and written reports on contractor letterhead to the Business Official and/or Director of Security.
+- Contractor must attend District meetings as requested regarding services or incidents.
+- Personnel must sign the log book at duty start, read entries since the previous shift, review problems/incidents, and confer with supervisors on special instructions.
+- Contractor employees may need to appear as witnesses in administrative, civil, or criminal proceedings related to incidents.
+- Contractor must coordinate services with District representatives and adhere to the District's overall security strategy.
+- Building-level safety plans and emergency response protocols are strictly confidential.

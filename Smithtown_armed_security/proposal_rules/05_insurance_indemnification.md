@@ -1,0 +1,29 @@
+# Insurance And Indemnification Rules
+
+- Insurance representative must complete the Insurance Certification form for award consideration.
+- Proposer must acknowledge receipt of insurance requirements and ability to supply required insurance.
+- Required certificates must be submitted upon pre-award; failure may allow the District to reject the RFP and award to the next lowest proposer.
+- District must be named as Additional Insured except for Workers' Compensation and NYS Disability Insurance.
+- Additional Insured policy must be from an A.M. Best A- rated or better insurer licensed in New York; a New York licensed and admitted insurer is strongly preferred.
+- Coverage must be primary and non-contributory for the District, its Board, employees, and volunteers.
+- Policies must include waiver of subrogation in favor of the District for all coverages including Workers' Compensation.
+- Additional insured status for General Liability must be provided by CG 20 26 or equivalent endorsement accepted at District discretion.
+- Completed endorsements must be attached to the Certificate of Insurance for General Liability, Auto Liability where applicable, Security Professional Liability where applicable, and Umbrella/Excess.
+- Certificate must describe covered security firm services.
+- At District request, security firm must provide declaration pages, endorsement/form lists, and policy endorsements/forms.
+- Contractor indemnifies the District for applicable deductibles and self-insured retentions.
+- Commercial General Liability limits: $1,000,000 per occurrence; $2,000,000 aggregate; $2,000,000 products and completed operations; $1,000,000 personal and advertising injury; $1,000,000 sexual misconduct and assault; $100,000 fire damage; $10,000 medical expense.
+- Sexual misconduct coverage must be affirmed; sublimits below policy limits are acceptable only at District discretion.
+- Policy must include assault and battery coverage, including defamation, false arrest, detention, and imprisonment.
+- Policy must cover all security-related services rendered to the District, including armed security guards.
+- If security guard services are not covered under Commercial General Liability, separate Security Professional Liability is required at $2,000,000 per occurrence and $2,000,000 aggregate.
+- Claims-made Security Professional Liability must have an effective date before contract inception and remain in effect for three years after work completion.
+- Automobile Liability required: $1,000,000 combined single limit for owned, hired, borrowed, and non-owned vehicles.
+- Workers' Compensation and NYS Disability Insurance are statutory and must use C-105.2 or U-26.3 and DB-120.1 forms.
+- ACORD certificates are not acceptable for Workers' Compensation and Disability proof.
+- Exemption requires CE-200 filing.
+- Umbrella/Excess Insurance required: $10,000,000 each occurrence and aggregate on follow-form or broader basis over required Auto, General Liability, and Security Professional Liability.
+- Failure to obtain required insurance for the District is a material breach.
+- Contractor must provide certificate of insurance before providing services.
+- Contractor must indemnify, defend, and hold harmless Smithtown Central School District, Board of Education, officers, agents, servants, and employees from claims arising from contractor performance.
+- Hold Harmless Agreement must be signed, notarized, and submitted with proposal.

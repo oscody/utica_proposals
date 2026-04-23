@@ -1,0 +1,35 @@
+# Staffing Training And Licensing Rules
+
+- Proposer must have provided uniformed armed guard services for at least five years.
+- Proposer must provide documentation of successful armed security performance, resources, supervision, training, organization, and similar-service performance for five or more years.
+- Security personnel supplied to the District must have at least five years of current or prior military and/or law enforcement experience, such as special tactical units, military police, or special forces.
+- Prior security guard or comparable private-sector service does not satisfy the required military/law-enforcement experience.
+- Proposer must be a New York State licensed and bonded security guard service authorized to provide private security services in New York.
+- Contractor and personnel must maintain all licenses and permits required by law.
+- Contractor must meet New York General Business Law Articles 7 and 7A, including the Security Guard Act of 1992.
+- All guards assigned to the District must be licensed by New York State to carry a firearm.
+- Firearm licenses must remain current throughout the agreement.
+- License cancellation, revocation, failure to maintain a valid license or registration, or failure to provide proof is grounds for immediate termination.
+- Guards must complete firearms training required by applicable law, including N.Y. Penal Law Article 35, General Business Law, and best practice.
+- Firearms training must refresh at least annually and as often as required by law or best practice/highest industry standard, whichever is more frequent.
+- Certificates for additional training must be provided within five days of completion.
+- Failure to complete required firearms training is grounds for immediate termination.
+- The RFP states an expectation that the successful proposer trains with the Suffolk County Police Department or Town Safety.
+- Proposer must provide at least one firearms training session per quarter for employees assigned to the District.
+- Proposer must provide at least bi-annual active shooter tactical training for employees assigned to the District.
+- All firearms must be maintained in good working order.
+- Contractor is responsible for firearms, ammunition, licensing, training, and maintenance costs.
+- Guards must be at least 21 years old.
+- Guards must be high school graduates or have a GED unless waived by the District in writing.
+- Guards must be able to speak, read, and write English for communication and reports.
+- Guards must be in good physical condition to perform essential duties.
+- Contractor must conduct pre-employment background checks, including fingerprinting, criminal records, previous employment, Social Security number verification, DMV records, and drug screening.
+- Security business and assigned guards must be cleared by the New York Education Department under SAVE legislation before assignment.
+- Contractor pays all clearance and associated costs.
+- Annual drug screenings are required for all armed guards assigned to the District, at proposer expense.
+- Successful drug testing documentation must be included in each assigned individual's professional biography.
+- Assigned individuals must be identified each year with biographies, prior work experience, proof of training, and proof of registration.
+- The Superintendent may approve or reject assigned individuals in the District's sole discretion.
+- Replacement employees require prior District approval.
+- Upon request, contractor must supply employee files without charge, including employment application, training records, eight 16-hour NYS mandated training certificates, Security Guard Training Certificate, birth certificate or I-9 or valid NYS DMV driver's license, background check results, NYS Security Guard License, and NYS registration evidence.
+- Contractor must provide photo identification badges for personnel on site.
