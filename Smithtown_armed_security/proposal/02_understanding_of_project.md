@@ -15,29 +15,29 @@ The Proposer understands that building-level safety plans and emergency response
 The Proposer confirms its understanding of the following District locations and the corresponding coverage requirements:
 
 **High Schools (2 armed guards each):**
-- Smithtown High School East — 10 School Street, St. James, NY 11780 — (631) 382-2705
-- Smithtown High School West — 100 Central Road, Smithtown, NY 11787 — (631) 382-2905
+* Smithtown High School East, 10 School Street, St. James, NY 11780, (631) 382-2705
+* Smithtown High School West, 100 Central Road, Smithtown, NY 11787, (631) 382-2905
 
 **Middle Schools (1 armed guard each):**
-- Accompsett Middle School — 660 Meadow Road, Smithtown, NY 11787 — (631) 382-2300
-- Great Hollow Middle School — 150 Southern Boulevard, Nesconset, NY 11767 — (631) 382-2805
-- Nesaquake Middle School — 479 Edgewood Avenue, St. James, NY 11780 — (631) 382-5105
+* Accompsett Middle School, 660 Meadow Road, Smithtown, NY 11787, (631) 382-2300
+* Great Hollow Middle School, 150 Southern Boulevard, Nesconset, NY 11767, (631) 382-2805
+* Nesaquake Middle School, 479 Edgewood Avenue, St. James, NY 11780, (631) 382-5105
 
 **Elementary Schools (1 armed guard each):**
-- Accompsett Elementary — 1 Lincoln Street, Smithtown, NY 11787 — (631) 382-4155
-- Dogwood Elementary — 50 Dogwood Road, Smithtown, NY 11787 — (631) 382-4255
-- Mills Pond Elementary — 246 Moriches Road, St. James, NY 11780 — (631) 382-4155
-- Mt. Pleasant Elementary — 33 Plaisted Avenue, Smithtown, NY 11787 — (631) 382-4355
-- Smithtown Elementary — 51 Lawrence Avenue, Smithtown, NY 11787 — (631) 382-4505
-- St. James Elementary — 580 Lake Avenue, St. James, NY 11780 — (631) 382-4455
-- Tackan Elementary — 99 Midwood Avenue, Nesconset, NY 11767 — (631) 382-4155
+* Accompsett Elementary, 1 Lincoln Street, Smithtown, NY 11787, (631) 382-4155
+* Dogwood Elementary, 50 Dogwood Road, Smithtown, NY 11787, (631) 382-4255
+* Mills Pond Elementary, 246 Moriches Road, St. James, NY 11780, (631) 382-4155
+* Mt. Pleasant Elementary, 33 Plaisted Avenue, Smithtown, NY 11787, (631) 382-4355
+* Smithtown Elementary, 51 Lawrence Avenue, Smithtown, NY 11787, (631) 382-4505
+* St. James Elementary, 580 Lake Avenue, St. James, NY 11780, (631) 382-4455
+* Tackan Elementary, 99 Midwood Avenue, Nesconset, NY 11767, (631) 382-4155
 
 **Total: 14 armed guards on each school day**, comprising 2 guards at each high school and 1 guard at each of the remaining 10 locations.
 
 The Proposer understands that general coverage hours are as follows, subject to District modification:
-- High schools: 7:00 AM to 2:30 PM (plus 30 minutes before and after the school day)
-- Middle schools: 7:30 AM to 3:00 PM (plus 30 minutes before and after the school day)
-- Elementary schools: 9:00 AM to 4:00 PM (plus 30 minutes before and after the school day)
+* High schools: 7:00 AM to 2:30 PM (plus 30 minutes before and after the school day)
+* Middle schools: 7:30 AM to 3:00 PM (plus 30 minutes before and after the school day)
+* Elementary schools: 9:00 AM to 4:00 PM (plus 30 minutes before and after the school day)
 
 The Proposer is prepared to provide coverage during the entire school year, Monday through Friday, on routine District business hours, and to furnish uniformed armed security for authorized District events outside standard school hours or the academic calendar on an as-needed basis. The Proposer understands that the District anticipates summer services at certain locations on an hourly basis and is fully prepared to provide such coverage upon District direction.
 
@@ -65,7 +65,7 @@ The Proposer understands and accepts the following operational requirements in f
 
 All incidents are immediately reported to appropriate public authorities as required, and to District officials without delay. The Proposer provides:
 
-- **Verbal incident reports** to the Business Official and/or Director of Security by close of shift
-- **Written incident reports** on Utica Security Services Inc. company letterhead to the Business Official and/or Director of Security
+* **Verbal incident reports** to the Business Official and/or Director of Security by close of shift
+* **Written incident reports** on Utica Security Services Inc. company letterhead to the Business Official and/or Director of Security
 
 The Proposer coordinates all services with District representatives and adheres to the District's overall security strategy at all times.

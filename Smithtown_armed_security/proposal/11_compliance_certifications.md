@@ -5,11 +5,11 @@
 Utica Security Services Inc. fully complies with New York State Labor Law prevailing wage requirements applicable to this contract. The Proposer acknowledges that prevailing wage rates under Suffolk County PRC #2026900471 apply to all armed security guard services performed under this agreement. The current Suffolk County Article 9 Armed Security Guard prevailing wage rate is $33.93 per hour with supplemental benefits of $2.46 per hour (July 1, 2025 through June 30, 2026); the Proposer will verify any updated schedule before final submission.
 
 The Proposer commits to:
-- Paying all assigned armed guards at no less than the applicable prevailing wage rate
-- Submitting certified payroll with all invoices
-- Submitting the first payroll transcript within 30 days after issuance of the first payroll
-- Submitting payroll transcripts every 30 days thereafter
-- Understanding that no payment will be made by the District unless certified payroll has been submitted
+* Paying all assigned armed guards at no less than the applicable prevailing wage rate
+* Submitting certified payroll with all invoices
+* Submitting the first payroll transcript within 30 days after issuance of the first payroll
+* Submitting payroll transcripts every 30 days thereafter
+* Understanding that no payment will be made by the District unless certified payroll has been submitted
 
 Invoices are submitted monthly and include time logs, attendance records, types of services rendered, and fees payable.
 

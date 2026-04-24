@@ -4,28 +4,28 @@
 
 Utica Security Services Inc. is fully prepared to begin services no later than July 1, 2026. The following mobilization timeline governs the period from anticipated contract execution (June 16, 2026) through the service start date.
 
-**Week 1 (Contract Execution — June 16, 2026):**
-- Execute agreement and confirm all District-required forms and certifications
-- Deliver Certificate of Insurance and all required insurance documentation to the District
-- Confirm 14 assigned armed guards and identify alternates for each location
-- Initiate SAVE clearance submissions to New York State Education Department for all assigned personnel
-- Verify current NYS security guard licenses and NYS firearm licenses for all assigned personnel
-- Initiate drug screening for all assigned personnel not already screened within required window
-- Submit personnel biographies, prior work experience, proof of training, and proof of registration to the District for Superintendent review and approval
+**Week 1 (Contract Execution, June 16, 2026):**
+* Execute agreement and confirm all District-required forms and certifications
+* Deliver Certificate of Insurance and all required insurance documentation to the District
+* Confirm 14 assigned armed guards and identify alternates for each location
+* Initiate SAVE clearance submissions to New York State Education Department for all assigned personnel
+* Verify current NYS security guard licenses and NYS firearm licenses for all assigned personnel
+* Initiate drug screening for all assigned personnel not already screened within required window
+* Submit personnel biographies, prior work experience, proof of training, and proof of registration to the District for Superintendent review and approval
 
 **Weeks 2–3 (June 17–27, 2026):**
-- Receive SAVE clearance confirmations and address any clearance delays immediately
-- Coordinate with Suffolk County Police Department or Town Safety to confirm training schedule and participation for assigned personnel prior to service start
-- Conduct school-specific orientation for all assigned guards: review of building layouts, entry/exit protocols, communication procedures, log book procedures, and District chain of command contacts
-- Procure and confirm District-approved uniforms for all assigned personnel
-- Issue company-provided cellular devices and two-way communication equipment to all assigned guards
-- Provide District with complete on-call management contact list (Site Supervisor and Operations Manager, 24/7 direct mobile numbers)
+* Receive SAVE clearance confirmations and address any clearance delays immediately
+* Coordinate with Suffolk County Police Department or Town Safety to confirm training schedule and participation for assigned personnel prior to service start
+* Conduct school-specific orientation for all assigned guards: review of building layouts, entry/exit protocols, communication procedures, log book procedures, and District chain of command contacts
+* Procure and confirm District-approved uniforms for all assigned personnel
+* Issue company-provided cellular devices and two-way communication equipment to all assigned guards
+* Provide District with complete on-call management contact list (Site Supervisor and Operations Manager, 24/7 direct mobile numbers)
 
 **Pre-Start (June 28–30, 2026):**
-- Confirm final post assignments for all 12 locations and verify personnel readiness
-- Conduct final supervisory review of post orders and District-specific protocols
-- Confirm coverage plan for lunch breaks and rest periods at each location
-- Conduct tabletop scenario exercise with assigned personnel covering active shooter, lockdown, and medical emergency response
+* Confirm final post assignments for all 12 locations and verify personnel readiness
+* Conduct final supervisory review of post orders and District-specific protocols
+* Confirm coverage plan for lunch breaks and rest periods at each location
+* Conduct tabletop scenario exercise with assigned personnel covering active shooter, lockdown, and medical emergency response
 
 **Service Start: July 1, 2026**
 
@@ -39,10 +39,10 @@ All replacement personnel require prior District approval before assignment. The
 
 Maintaining continuous armed coverage at all 12 locations is a non-negotiable operational commitment of Utica Security Services Inc. The Proposer's coverage continuity model includes:
 
-- A dedicated float pool of pre-screened, SAVE-cleared, licensed armed guards on standby to cover any absence or vacancy without delay
-- On-call supervisory coverage 24/7 to initiate coverage procedures immediately upon notification of any vacancy
-- A target of filling any unstaffed post within one hour of identifying a vacancy
-- Same-guard continuity as the priority; float staff are assigned only when the primary guard is unavailable and only after prior District notification
+* A dedicated float pool of pre-screened, SAVE-cleared, licensed armed guards on standby to cover any absence or vacancy without delay
+* On-call supervisory coverage 24/7 to initiate coverage procedures immediately upon notification of any vacancy
+* A target of filling any unstaffed post within one hour of identifying a vacancy
+* Same-guard continuity as the priority; float staff are assigned only when the primary guard is unavailable and only after prior District notification
 
 No invoice is submitted for any post-hour not filled by a deployed, licensed armed guard.
 

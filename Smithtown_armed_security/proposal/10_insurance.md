@@ -11,33 +11,33 @@ The District will be named as Additional Insured on all applicable policies. Cov
 The Proposer confirms the ability to provide and maintain the following coverages throughout the contract term:
 
 **Commercial General Liability:**
-- $1,000,000 per occurrence
-- $2,000,000 aggregate
-- $2,000,000 products and completed operations
-- $1,000,000 personal and advertising injury
-- $1,000,000 sexual misconduct and assault
-- $100,000 fire damage
-- $10,000 medical expense
-- Policy includes assault and battery coverage, including defamation, false arrest, detention, and imprisonment
-- Policy covers all armed security guard services rendered to the District
-- Additional Insured endorsement: CG 20 26 or equivalent accepted at District discretion
+* $1,000,000 per occurrence
+* $2,000,000 aggregate
+* $2,000,000 products and completed operations
+* $1,000,000 personal and advertising injury
+* $1,000,000 sexual misconduct and assault
+* $100,000 fire damage
+* $10,000 medical expense
+* Policy includes assault and battery coverage, including defamation, false arrest, detention, and imprisonment
+* Policy covers all armed security guard services rendered to the District
+* Additional Insured endorsement: CG 20 26 or equivalent accepted at District discretion
 
 **Security Professional Liability** (if armed security guard services are not covered under Commercial General Liability):
-- $2,000,000 per occurrence
-- $2,000,000 aggregate
-- Claims-made coverage with effective date before contract inception; maintained for three years after work completion
+* $2,000,000 per occurrence
+* $2,000,000 aggregate
+* Claims-made coverage with effective date before contract inception; maintained for three years after work completion
 
 **Automobile Liability:**
-- $1,000,000 combined single limit
-- Coverage for owned, hired, borrowed, and non-owned vehicles
+* $1,000,000 combined single limit
+* Coverage for owned, hired, borrowed, and non-owned vehicles
 
 **Workers' Compensation and NYS Disability Insurance:**
-- Statutory limits
-- Provided via C-105.2 or U-26.3 and DB-120.1 forms (ACORD certificates are not acceptable for these coverages)
+* Statutory limits
+* Provided via C-105.2 or U-26.3 and DB-120.1 forms (ACORD certificates are not acceptable for these coverages)
 
 **Umbrella/Excess Insurance:**
-- $10,000,000 each occurrence and aggregate
-- Follow-form or broader basis over required Auto, General Liability, and Security Professional Liability
+* $10,000,000 each occurrence and aggregate
+* Follow-form or broader basis over required Auto, General Liability, and Security Professional Liability
 
 All policies are from insurers rated A- or better by A.M. Best and licensed in New York. A New York licensed and admitted insurer is the Proposer's preference. Completed endorsements are attached to the Certificate of Insurance for General Liability, Auto Liability, Security Professional Liability, and Umbrella/Excess.
 

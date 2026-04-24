@@ -10,10 +10,10 @@ Key program elements include: daily post inspections by Site/Field Supervisors, 
 
 At the start of each duty assignment, all assigned guards:
 
-- Sign the log book with date and time of duty start
-- Read all entries since the previous shift
-- Review any noted problems, incidents, or special instructions
-- Confer with supervisors regarding current special instructions or District directives
+* Sign the log book with date and time of duty start
+* Read all entries since the previous shift
+* Review any noted problems, incidents, or special instructions
+* Confer with supervisors regarding current special instructions or District directives
 
 Shift-end protocols include a verbal incident summary to the Site Supervisor and, where any incident occurred, immediate notification to the Business Official and/or Director of Security. Written incident reports on company letterhead are submitted for all reportable incidents.
 
@@ -21,11 +21,11 @@ Shift-end protocols include a verbal incident summary to the Site Supervisor and
 
 Site/Field Supervisors conduct regular post inspections at all 12 District locations. Inspections verify:
 
-- Guard presence and professional appearance
-- Proper equipment (communications devices, firearm)
-- Log book compliance
-- Adherence to post orders and District-approved protocols
-- Any conditions requiring attention or reporting
+* Guard presence and professional appearance
+* Proper equipment (communications devices, firearm)
+* Log book compliance
+* Adherence to post orders and District-approved protocols
+* Any conditions requiring attention or reporting
 
 Inspection findings are documented. Deficiencies are corrected immediately, with the Operations Manager notified of any recurring or significant issues.
 
@@ -33,12 +33,12 @@ Inspection findings are documented. Deficiencies are corrected immediately, with
 
 All complaints concerning assigned guard performance, conduct, or any other service matter are handled through the following structured process:
 
-- **Receipt and acknowledgment** within one business day of complaint receipt; District notified within four hours of receipt (immediately for safety or security risks)
-- **Initial status update** to District within three business days, including preliminary findings and any interim measures
-- **Full investigation** completed within ten business days for standard matters
-- **Final written report** of findings and corrective actions within two business days after investigation conclusion
-- **Progressive discipline** based on severity: verbal counseling and performance improvement plan for first minor offense; written warning and mandatory retraining for second offense or moderate violation; suspension and comprehensive retraining for third offense or serious violation; termination for repeated or severe violations
-- **Immediate removal** of any individual where the complaint involves an immediate safety or security risk, sexual harassment, physical altercations, or criminal activity allegations
+* **Receipt and acknowledgment** within one business day of complaint receipt; District notified within four hours of receipt (immediately for safety or security risks)
+* **Initial status update** to District within three business days, including preliminary findings and any interim measures
+* **Full investigation** completed within ten business days for standard matters
+* **Final written report** of findings and corrective actions within two business days after investigation conclusion
+* **Progressive discipline** based on severity: verbal counseling and performance improvement plan for first minor offense; written warning and mandatory retraining for second offense or moderate violation; suspension and comprehensive retraining for third offense or serious violation; termination for repeated or severe violations
+* **Immediate removal** of any individual where the complaint involves an immediate safety or security risk, sexual harassment, physical altercations, or criminal activity allegations
 
 The District receives a written summary of all findings, corrective actions, and any personnel changes upon conclusion of each investigation.
 

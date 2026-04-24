@@ -10,12 +10,12 @@ The Proposer maintains all required New York State licenses and registrations fo
 
 All armed guards assigned to the District have successfully completed a comprehensive pre-employment background check before assignment. Background checks include:
 
-- Fingerprinting
-- Criminal records search (state and federal)
-- Previous employment verification
-- Social Security number verification
-- DMV records check
-- Drug screening
+* Fingerprinting
+* Criminal records search (state and federal)
+* Previous employment verification
+* Social Security number verification
+* DMV records check
+* Drug screening
 
 Background check results are maintained in each individual's employee file. Upon District request, the Proposer provides the relevant employee files without charge, including employment application, training records, NYS Security Guard License, NYS registration evidence, birth certificate or I-9 or valid NYS DMV driver's license, background check results, and drug test results.
 

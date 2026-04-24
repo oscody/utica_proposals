@@ -2,7 +2,7 @@
 
 ### 8.1 Policy Overview
 
-Utica Security Services Inc. maintains a comprehensive Use of Force Policy that governs all armed security personnel assigned to the Smithtown Central School District. The policy is fully aligned with New York Penal Law Article 35, General Business Law, and all applicable best practices for armed security in an educational setting. The core principle of this policy is that force — and particularly deadly force — is an absolute last resort, used only when lawfully justified and when no lesser means is available to protect human life.
+Utica Security Services Inc. maintains a comprehensive Use of Force Policy that governs all armed security personnel assigned to the Smithtown Central School District. The policy is fully aligned with New York Penal Law Article 35, General Business Law, and all applicable best practices for armed security in an educational setting. The core principle of this policy is that force (and particularly deadly force) is an absolute last resort, used only when lawfully justified and when no lesser means is available to protect human life.
 
 In a school environment, the paramount application of this policy is the protection of students, staff, and lawful visitors from imminent bodily harm or death. Every armed guard deployed to the District is trained to understand and apply this policy without exception.
 
@@ -10,15 +10,15 @@ In a school environment, the paramount application of this policy is the protect
 
 The Proposer's Use of Force Continuum, applied in all District assignments, progresses as follows:
 
-1. **Visible Presence** — The armed guard's professional, uniformed presence serves as the primary deterrent to unlawful entry and threatening behavior. Officers are stationed visibly and positioned to be seen from approach routes to school buildings.
+1. **Visible Presence**: The armed guard's professional, uniformed presence serves as the primary deterrent to unlawful entry and threatening behavior. Officers are stationed visibly and positioned to be seen from approach routes to school buildings.
 
-2. **Verbal Communication and De-Escalation** — Officers are trained to address all behavioral or threat situations with clear, calm, and professional verbal communication first. De-escalation skills are practiced through quarterly training exercises. The goal is to resolve all situations through verbal engagement whenever possible.
+2. **Verbal Communication and De-Escalation**: Officers are trained to address all behavioral or threat situations with clear, calm, and professional verbal communication first. De-escalation skills are practiced through quarterly training exercises. The goal is to resolve all situations through verbal engagement whenever possible.
 
-3. **Physical Presence and Positioning** — Officers may use physical positioning and non-combative physical guidance to control access points or manage a person attempting unlawful entry, consistent with lawful authority under New York General Business Law.
+3. **Physical Presence and Positioning**: Officers may use physical positioning and non-combative physical guidance to control access points or manage a person attempting unlawful entry, consistent with lawful authority under New York General Business Law.
 
-4. **Physical Control** — Physical restraint or control techniques are applied only when necessary to prevent immediate harm and only to the extent required to neutralize the immediate threat.
+4. **Physical Control**: Physical restraint or control techniques are applied only when necessary to prevent immediate harm and only to the extent required to neutralize the immediate threat.
 
-5. **Deadly Force** — The use of a firearm or deadly force is authorized only as an absolute last resort, when the officer reasonably believes that deadly physical force is necessary to defend themselves or another person from what they reasonably believe to be the use or imminent use of deadly physical force, consistent with New York Penal Law Article 35. Deadly force is never used to protect property.
+5. **Deadly Force**: The use of a firearm or deadly force is authorized only as an absolute last resort, when the officer reasonably believes that deadly physical force is necessary to defend themselves or another person from what they reasonably believe to be the use or imminent use of deadly physical force, consistent with New York Penal Law Article 35. Deadly force is never used to protect property.
 
 ### 8.3 Firearms Responsibility
 

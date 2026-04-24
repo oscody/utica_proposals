@@ -4,12 +4,12 @@
 
 Utica Security Services Inc. maintains a comprehensive training program designed to ensure that all armed security personnel assigned to the Smithtown Central School District are fully prepared to perform their duties safely, professionally, and in compliance with all contractual, regulatory, and operational requirements. Our training philosophy in the school district context emphasizes:
 
-- Student and staff safety above all other priorities
-- Professional conduct appropriate to an educational environment
-- De-escalation as the preferred first response to any behavioral incident
-- Regulatory compliance with all NYS and federal requirements governing armed security
-- Continuous firearms proficiency and active threat preparedness
-- Strict adherence to the District's chain of command and safety protocols
+* Student and staff safety above all other priorities
+* Professional conduct appropriate to an educational environment
+* De-escalation as the preferred first response to any behavioral incident
+* Regulatory compliance with all NYS and federal requirements governing armed security
+* Continuous firearms proficiency and active threat preparedness
+* Strict adherence to the District's chain of command and safety protocols
 
 All training is documented in each assigned guard's personnel file. Training certificates for any additional training are provided to the District within five days of completion. Failure to complete required firearms training is grounds for immediate removal from the District assignment.
 
@@ -62,12 +62,12 @@ All firearms used by assigned guards are maintained in good working order at all
 
 The Proposer provides at least bi-annual active shooter tactical training for all armed guards assigned to the District. This training includes:
 
-- Active shooter response protocols aligned to law enforcement and Department of Homeland Security guidance
-- Threat identification, isolation, and neutralization within the context of an occupied school building
-- Communication and coordination with District administration and law enforcement during an active threat event
-- Evacuation support and reunification procedures
-- Trauma-informed response to students and staff during and after a critical incident
-- Scenario-based exercises simulating school-specific active threat environments
+* Active shooter response protocols aligned to law enforcement and Department of Homeland Security guidance
+* Threat identification, isolation, and neutralization within the context of an occupied school building
+* Communication and coordination with District administration and law enforcement during an active threat event
+* Evacuation support and reunification procedures
+* Trauma-informed response to students and staff during and after a critical incident
+* Scenario-based exercises simulating school-specific active threat environments
 
 Training records for active shooter tactical training are maintained in each assigned guard's personnel file. The Proposer provides the District with documentation of completed sessions within five days of each training completion.
 
@@ -79,12 +79,12 @@ The Proposer understands the District's expectation that the successful Proposer
 
 The Proposer maintains complete training records for all assigned personnel. Upon District request, the following training documentation is provided without charge:
 
-- 8-hour pre-assignment training certificate
-- 16-hour on-the-job training certificate (NYS mandated)
-- Security Guard Training Certificate
-- Annual in-service training certificates
-- Quarterly firearms training certificates
-- Bi-annual active shooter tactical training certificates
-- Any additional specialized training certificates, provided within five days of completion
+* 8-hour pre-assignment training certificate
+* 16-hour on-the-job training certificate (NYS mandated)
+* Security Guard Training Certificate
+* Annual in-service training certificates
+* Quarterly firearms training certificates
+* Bi-annual active shooter tactical training certificates
+* Any additional specialized training certificates, provided within five days of completion
 
 Training records for all assigned individuals are available within the employee files provided to the District upon request.

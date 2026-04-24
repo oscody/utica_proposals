@@ -28,78 +28,78 @@ Contact: 347-548-5829
 ## TABLE OF CONTENTS
 
 1. Statement of Interest and Firm Overview
-   - 1.1 Statement of Interest
-   - 1.2 Firm Overview: Size, Structure, and Staffing Levels
-   - 1.3 New York State Licensing and Compliance
-   - 1.4 Litigation Disclosure
-   - 1.5 Staff Roles and Responsibilities
+   * 1.1 Statement of Interest
+   * 1.2 Firm Overview: Size, Structure, and Staffing Levels
+   * 1.3 New York State Licensing and Compliance
+   * 1.4 Litigation Disclosure
+   * 1.5 Staff Roles and Responsibilities
 
 2. Understanding of the Project
-   - 2.1 Project Scope and District Needs
-   - 2.2 School Locations and Coverage Model
-   - 2.3 Operational Requirements and Protocols
-   - 2.4 Incident Reporting and Coordination
+   * 2.1 Project Scope and District Needs
+   * 2.2 School Locations and Coverage Model
+   * 2.3 Operational Requirements and Protocols
+   * 2.4 Incident Reporting and Coordination
 
 3. Relevant Experience
-   - 3.1 Armed Security Guard Services Experience
-   - 3.2 Public-Sector and Government Experience
-   - 3.3 Comparable Engagements
-   - 3.4 Summary of Relevance to the District
+   * 3.1 Armed Security Guard Services Experience
+   * 3.2 Public-Sector and Government Experience
+   * 3.3 Comparable Engagements
+   * 3.4 Summary of Relevance to the District
 
 4. Implementation Plan and Schedule
-   - 4.1 Pre-Award and Mobilization Timeline
-   - 4.2 Staffing Confirmation and Pre-Deployment
-   - 4.3 Continuity of Post Coverage
-   - 4.4 Absenteeism and Coverage Management
+   * 4.1 Pre-Award and Mobilization Timeline
+   * 4.2 Staffing Confirmation and Pre-Deployment
+   * 4.3 Continuity of Post Coverage
+   * 4.4 Absenteeism and Coverage Management
 
 5. Staffing Plan
-   - 5.1 Key Management Staff
-   - 5.2 Organizational Structure
-   - 5.3 Hiring Standards and Military/Law Enforcement Requirements
-   - 5.4 Personnel Qualifications
-   - 5.5 On-Call Management and Escalation
+   * 5.1 Key Management Staff
+   * 5.2 Organizational Structure
+   * 5.3 Hiring Standards and Military/Law Enforcement Requirements
+   * 5.4 Personnel Qualifications
+   * 5.5 On-Call Management and Escalation
 
 6. Training Plan
-   - 6.1 Training Philosophy
-   - 6.2 Initial and On-the-Job Training
-   - 6.3 Firearms Training Program
-   - 6.4 Active Shooter Tactical Training
-   - 6.5 Suffolk County Police Department Coordination
-   - 6.6 Training Recordkeeping and Reporting
+   * 6.1 Training Philosophy
+   * 6.2 Initial and On-the-Job Training
+   * 6.3 Firearms Training Program
+   * 6.4 Active Shooter Tactical Training
+   * 6.5 Suffolk County Police Department Coordination
+   * 6.6 Training Recordkeeping and Reporting
 
 7. Licensing, Background Checks, and SAVE Clearance
-   - 7.1 NYS Licensing Requirements
-   - 7.2 Pre-Employment Background Checks
-   - 7.3 SAVE Clearance Compliance
-   - 7.4 Drug Screening Program
-   - 7.5 Personnel File Availability
+   * 7.1 NYS Licensing Requirements
+   * 7.2 Pre-Employment Background Checks
+   * 7.3 SAVE Clearance Compliance
+   * 7.4 Drug Screening Program
+   * 7.5 Personnel File Availability
 
 8. Use of Force Policy
-   - 8.1 Policy Overview
-   - 8.2 Use of Force Continuum
-   - 8.3 Firearms Responsibility
-   - 8.4 Incident Reporting
+   * 8.1 Policy Overview
+   * 8.2 Use of Force Continuum
+   * 8.3 Firearms Responsibility
+   * 8.4 Incident Reporting
 
 9. Quality Assurance and Performance
-   - 9.1 Quality Assurance Program Overview
-   - 9.2 Shift Protocols and Log Compliance
-   - 9.3 Supervisor Inspection and Oversight
-   - 9.4 Complaint Handling and Corrective Action
-   - 9.5 Liquidated Damages Acknowledgment
+   * 9.1 Quality Assurance Program Overview
+   * 9.2 Shift Protocols and Log Compliance
+   * 9.3 Supervisor Inspection and Oversight
+   * 9.4 Complaint Handling and Corrective Action
+   * 9.5 Liquidated Damages Acknowledgment
 
 10. Insurance
-    - 10.1 Insurance Capability Statement
-    - 10.2 Required Coverages
+    * 10.1 Insurance Capability Statement
+    * 10.2 Required Coverages
 
 11. Compliance and Certifications
-    - 11.1 Prevailing Wage Compliance
-    - 11.2 Drug and Alcohol Free Workplace
-    - 11.3 Sexual Harassment Prevention
-    - 11.4 Non-Collusive Certification
-    - 11.5 Iran Divestment Act
-    - 11.6 Conflict of Interest
-    - 11.7 Subcontracting
-    - 11.8 Contract Terms Acknowledgment
+    * 11.1 Prevailing Wage Compliance
+    * 11.2 Drug and Alcohol Free Workplace
+    * 11.3 Sexual Harassment Prevention
+    * 11.4 Non-Collusive Certification
+    * 11.5 Iran Divestment Act
+    * 11.6 Conflict of Interest
+    * 11.7 Subcontracting
+    * 11.8 Contract Terms Acknowledgment
 
 12. References
 
@@ -170,29 +170,29 @@ The Proposer understands that building-level safety plans and emergency response
 The Proposer confirms its understanding of the following District locations and the corresponding coverage requirements:
 
 **High Schools (2 armed guards each):**
-- Smithtown High School East — 10 School Street, St. James, NY 11780 — (631) 382-2705
-- Smithtown High School West — 100 Central Road, Smithtown, NY 11787 — (631) 382-2905
+* Smithtown High School East, 10 School Street, St. James, NY 11780, (631) 382-2705
+* Smithtown High School West, 100 Central Road, Smithtown, NY 11787, (631) 382-2905
 
 **Middle Schools (1 armed guard each):**
-- Accompsett Middle School — 660 Meadow Road, Smithtown, NY 11787 — (631) 382-2300
-- Great Hollow Middle School — 150 Southern Boulevard, Nesconset, NY 11767 — (631) 382-2805
-- Nesaquake Middle School — 479 Edgewood Avenue, St. James, NY 11780 — (631) 382-5105
+* Accompsett Middle School, 660 Meadow Road, Smithtown, NY 11787, (631) 382-2300
+* Great Hollow Middle School, 150 Southern Boulevard, Nesconset, NY 11767, (631) 382-2805
+* Nesaquake Middle School, 479 Edgewood Avenue, St. James, NY 11780, (631) 382-5105
 
 **Elementary Schools (1 armed guard each):**
-- Accompsett Elementary — 1 Lincoln Street, Smithtown, NY 11787 — (631) 382-4155
-- Dogwood Elementary — 50 Dogwood Road, Smithtown, NY 11787 — (631) 382-4255
-- Mills Pond Elementary — 246 Moriches Road, St. James, NY 11780 — (631) 382-4155
-- Mt. Pleasant Elementary — 33 Plaisted Avenue, Smithtown, NY 11787 — (631) 382-4355
-- Smithtown Elementary — 51 Lawrence Avenue, Smithtown, NY 11787 — (631) 382-4505
-- St. James Elementary — 580 Lake Avenue, St. James, NY 11780 — (631) 382-4455
-- Tackan Elementary — 99 Midwood Avenue, Nesconset, NY 11767 — (631) 382-4155
+* Accompsett Elementary, 1 Lincoln Street, Smithtown, NY 11787, (631) 382-4155
+* Dogwood Elementary, 50 Dogwood Road, Smithtown, NY 11787, (631) 382-4255
+* Mills Pond Elementary, 246 Moriches Road, St. James, NY 11780, (631) 382-4155
+* Mt. Pleasant Elementary, 33 Plaisted Avenue, Smithtown, NY 11787, (631) 382-4355
+* Smithtown Elementary, 51 Lawrence Avenue, Smithtown, NY 11787, (631) 382-4505
+* St. James Elementary, 580 Lake Avenue, St. James, NY 11780, (631) 382-4455
+* Tackan Elementary, 99 Midwood Avenue, Nesconset, NY 11767, (631) 382-4155
 
 **Total: 14 armed guards on each school day**, comprising 2 guards at each high school and 1 guard at each of the remaining 10 locations.
 
 The Proposer understands that general coverage hours are as follows, subject to District modification:
-- High schools: 7:00 AM to 2:30 PM (plus 30 minutes before and after the school day)
-- Middle schools: 7:30 AM to 3:00 PM (plus 30 minutes before and after the school day)
-- Elementary schools: 9:00 AM to 4:00 PM (plus 30 minutes before and after the school day)
+* High schools: 7:00 AM to 2:30 PM (plus 30 minutes before and after the school day)
+* Middle schools: 7:30 AM to 3:00 PM (plus 30 minutes before and after the school day)
+* Elementary schools: 9:00 AM to 4:00 PM (plus 30 minutes before and after the school day)
 
 The Proposer is prepared to provide coverage during the entire school year, Monday through Friday, on routine District business hours, and to furnish uniformed armed security for authorized District events outside standard school hours or the academic calendar on an as-needed basis. The Proposer understands that the District anticipates summer services at certain locations on an hourly basis and is fully prepared to provide such coverage upon District direction.
 
@@ -220,8 +220,8 @@ The Proposer understands and accepts the following operational requirements in f
 
 All incidents are immediately reported to appropriate public authorities as required, and to District officials without delay. The Proposer provides:
 
-- **Verbal incident reports** to the Business Official and/or Director of Security by close of shift
-- **Written incident reports** on Utica Security Services Inc. company letterhead to the Business Official and/or Director of Security
+* **Verbal incident reports** to the Business Official and/or Director of Security by close of shift
+* **Written incident reports** on Utica Security Services Inc. company letterhead to the Business Official and/or Director of Security
 
 The Proposer coordinates all services with District representatives and adheres to the District's overall security strategy at all times.
 
@@ -237,7 +237,7 @@ The Proposer has provided armed security coverage to government, commercial, and
 
 ### 3.2 Public-Sector and Government Experience
 
-Utica Security Services Inc. has supported public-facing, highly regulated operating environments with armed and advanced security professionals. While serving as a major vendor to established prime security contractors — including Protos Security Services, Retail Security Services, St. Moritz Security Services Inc., NESCTC Security Services, and Alpha Security Solution — Utica Security personnel operated under strict client-mandated procedures, formal reporting requirements, conduct standards, and performance monitoring comparable to those required in public-sector contracts.
+Utica Security Services Inc. has supported public-facing, highly regulated operating environments with armed and advanced security professionals. While serving as a major vendor to established prime security contractors (including Protos Security Services, Retail Security Services, St. Moritz Security Services Inc., NESCTC Security Services, and Alpha Security Solution) Utica Security personnel operated under strict client-mandated procedures, formal reporting requirements, conduct standards, and performance monitoring comparable to those required in public-sector contracts.
 
 These engagements required compliance with written post orders, incident reporting standards, attendance verification, supervisory oversight, and client-directed audits. Our management team is experienced in operating under contracts where policies are non-negotiable, performance is continuously monitored, and corrective action is required without delay. The Proposer is fully prepared to operate under the District's oversight structure, comply with all reporting and training standards, and adapt internal controls to meet the expectations of a public school district serving the Smithtown community.
 
@@ -245,56 +245,56 @@ These engagements required compliance with written post orders, incident reporti
 
 The following engagements demonstrate Utica Security Services Inc.'s ability to deliver the armed security services, staffing discipline, and institutional professionalism required under RFP #26/27-01. To protect client confidentiality, certain details are presented in an anonymized format. Additional information may be provided upon request.
 
-**Comparable Engagement 1 — Government Building (High-Security Public Facility)**
+**Comparable Engagement 1: Government Building (High-Security Public Facility)**
 
-- **Facility Type:** High-security government facility with multi-building complex and continuous public access
-- **Operating Schedule:** Extended hours, peak daytime and evening operations
-- **Scope of Services:** Armed access control and perimeter security; fixed post coverage at entry points; coordination with multiple security agencies and municipal law enforcement staff; visitor screening and credential management; incident reporting and emergency response coordination
-- **Staffing Profile:** Armed fixed posts supported by supervisory oversight
-- **Relevance to District:** High-security institutional operations; professional conduct and impartial enforcement; multi-agency coordination; reporting protocols; rapid response to threats
+* **Facility Type:** High-security government facility with multi-building complex and continuous public access
+* **Operating Schedule:** Extended hours, peak daytime and evening operations
+* **Scope of Services:** Armed access control and perimeter security; fixed post coverage at entry points; coordination with multiple security agencies and municipal law enforcement staff; visitor screening and credential management; incident reporting and emergency response coordination
+* **Staffing Profile:** Armed fixed posts supported by supervisory oversight
+* **Relevance to District:** High-security institutional operations; professional conduct and impartial enforcement; multi-agency coordination; reporting protocols; rapid response to threats
 
-**Comparable Engagement 2 — High-Visibility Public Campus (Multi-Building Complex)**
+**Comparable Engagement 2: High-Visibility Public Campus (Multi-Building Complex)**
 
-- **Facility Type:** High-traffic public venue with multiple buildings, public access points, and a diverse visiting population
-- **Operating Schedule:** Extended hours, 7 days per week, with special event coverage
-- **Scope of Services:** Armed deterrence and patrol; crowd management during peak periods; de-escalation of behavioral incidents; access control and perimeter security; incident documentation and reporting
-- **Staffing Profile:** Armed guards with on-call supervisors
-- **Relevance to District:** Managing diverse populations in a multi-building environment; visible deterrence; maintaining safety without disrupting daily operations; special event security
+* **Facility Type:** High-traffic public venue with multiple buildings, public access points, and a diverse visiting population
+* **Operating Schedule:** Extended hours, 7 days per week, with special event coverage
+* **Scope of Services:** Armed deterrence and patrol; crowd management during peak periods; de-escalation of behavioral incidents; access control and perimeter security; incident documentation and reporting
+* **Staffing Profile:** Armed guards with on-call supervisors
+* **Relevance to District:** Managing diverse populations in a multi-building environment; visible deterrence; maintaining safety without disrupting daily operations; special event security
 
-**Comparable Engagement 3 — Corporate Campus (Executive and Employee Protection)**
+**Comparable Engagement 3: Corporate Campus (Executive and Employee Protection)**
 
-- **Facility Type:** Corporate office campus with extensive grounds, multiple entry points, and security-sensitive operations
-- **Operating Schedule:** Extended business hours with after-hours coverage
-- **Scope of Services:** Armed access control and visitor management; fixed posts and perimeter patrols; coordination with emergency responders; incident reporting and business continuity support
-- **Staffing Profile:** Armed guards and supervisory staff
-- **Relevance to District:** Campus perimeter control; access point management; professional presence that balances security with a welcoming environment; incident readiness
+* **Facility Type:** Corporate office campus with extensive grounds, multiple entry points, and security-sensitive operations
+* **Operating Schedule:** Extended business hours with after-hours coverage
+* **Scope of Services:** Armed access control and visitor management; fixed posts and perimeter patrols; coordination with emergency responders; incident reporting and business continuity support
+* **Staffing Profile:** Armed guards and supervisory staff
+* **Relevance to District:** Campus perimeter control; access point management; professional presence that balances security with a welcoming environment; incident readiness
 
-**Comparable Engagement 4 — Multi-Site Retail and Commercial Portfolio (Centralized Security Management)**
+**Comparable Engagement 4: Multi-Site Retail and Commercial Portfolio (Centralized Security Management)**
 
-- **Facility Type:** Multiple commercial locations under one contract with centralized oversight
-- **Operating Schedule:** Extended operating hours across multiple sites, 7 days per week
-- **Scope of Services:** Asset protection; multi-site staffing plan development and management; coverage integrity and absenteeism management; customer service and visible deterrence; incident reporting and centralized oversight; on-call management
-- **Staffing Profile:** Armed supervisors, guards, and relief staff
-- **Relevance to District:** Multi-location coordination; staffing depth and redundancy across facilities; contract compliance; scalable operations across multiple sites simultaneously — directly comparable to 12-school deployment
+* **Facility Type:** Multiple commercial locations under one contract with centralized oversight
+* **Operating Schedule:** Extended operating hours across multiple sites, 7 days per week
+* **Scope of Services:** Asset protection; multi-site staffing plan development and management; coverage integrity and absenteeism management; customer service and visible deterrence; incident reporting and centralized oversight; on-call management
+* **Staffing Profile:** Armed supervisors, guards, and relief staff
+* **Relevance to District:** Multi-location coordination; staffing depth and redundancy across facilities; contract compliance; scalable operations across multiple sites simultaneously, directly comparable to 12-school deployment
 
-**Comparable Engagement 5 — High-Value Asset Protection Facility (Equipment and Grounds)**
+**Comparable Engagement 5: High-Value Asset Protection Facility (Equipment and Grounds)**
 
-- **Facility Type:** Facility with outdoor grounds and indoor operations requiring armed perimeter and access control
-- **Operating Schedule:** Extended hours, 7 days per week
-- **Scope of Services:** Perimeter security and access control; fixed post coverage at entry points; roving patrols of grounds; asset protection and loss prevention; incident reporting and coordination with facility management
-- **Staffing Profile:** Armed guards and on-site supervisors
-- **Relevance to District:** Exterior perimeter protection; vehicle-based station duty; grounds patrol; incident response and reporting
+* **Facility Type:** Facility with outdoor grounds and indoor operations requiring armed perimeter and access control
+* **Operating Schedule:** Extended hours, 7 days per week
+* **Scope of Services:** Perimeter security and access control; fixed post coverage at entry points; roving patrols of grounds; asset protection and loss prevention; incident reporting and coordination with facility management
+* **Staffing Profile:** Armed guards and on-site supervisors
+* **Relevance to District:** Exterior perimeter protection; vehicle-based station duty; grounds patrol; incident response and reporting
 
 ### 3.4 Summary of Relevance to the District
 
 Collectively, these engagements demonstrate Utica Security Services Inc.'s ability to:
 
-- Deploy armed guards in institutional, multi-building, and campus environments
-- Maintain continuous coverage and fixed-post compliance across multiple simultaneous locations
-- Assign and retain same-site personnel to build familiarity and continuity
-- Manage absenteeism, escalation, and incident reporting to a demanding client standard
-- Integrate with client security strategies, directives, and confidential safety protocols
-- Support public-sector and institutional expectations for professionalism, compliance, and community trust
+* Deploy armed guards in institutional, multi-building, and campus environments
+* Maintain continuous coverage and fixed-post compliance across multiple simultaneous locations
+* Assign and retain same-site personnel to build familiarity and continuity
+* Manage absenteeism, escalation, and incident reporting to a demanding client standard
+* Integrate with client security strategies, directives, and confidential safety protocols
+* Support public-sector and institutional expectations for professionalism, compliance, and community trust
 
 ---
 
@@ -304,28 +304,28 @@ Collectively, these engagements demonstrate Utica Security Services Inc.'s abili
 
 Utica Security Services Inc. is fully prepared to begin services no later than July 1, 2026. The following mobilization timeline governs the period from anticipated contract execution (June 16, 2026) through the service start date.
 
-**Week 1 (Contract Execution — June 16, 2026):**
-- Execute agreement and confirm all District-required forms and certifications
-- Deliver Certificate of Insurance and all required insurance documentation to the District
-- Confirm 14 assigned armed guards and identify alternates for each location
-- Initiate SAVE clearance submissions to New York State Education Department for all assigned personnel
-- Verify current NYS security guard licenses and NYS firearm licenses for all assigned personnel
-- Initiate drug screening for all assigned personnel not already screened within required window
-- Submit personnel biographies, prior work experience, proof of training, and proof of registration to the District for Superintendent review and approval
+**Week 1 (Contract Execution, June 16, 2026):**
+* Execute agreement and confirm all District-required forms and certifications
+* Deliver Certificate of Insurance and all required insurance documentation to the District
+* Confirm 14 assigned armed guards and identify alternates for each location
+* Initiate SAVE clearance submissions to New York State Education Department for all assigned personnel
+* Verify current NYS security guard licenses and NYS firearm licenses for all assigned personnel
+* Initiate drug screening for all assigned personnel not already screened within required window
+* Submit personnel biographies, prior work experience, proof of training, and proof of registration to the District for Superintendent review and approval
 
 **Weeks 2–3 (June 17–27, 2026):**
-- Receive SAVE clearance confirmations and address any clearance delays immediately
-- Coordinate with Suffolk County Police Department or Town Safety to confirm training schedule and participation for assigned personnel prior to service start
-- Conduct school-specific orientation for all assigned guards: review of building layouts, entry/exit protocols, communication procedures, log book procedures, and District chain of command contacts
-- Procure and confirm District-approved uniforms for all assigned personnel
-- Issue company-provided cellular devices and two-way communication equipment to all assigned guards
-- Provide District with complete on-call management contact list (Site Supervisor and Operations Manager, 24/7 direct mobile numbers)
+* Receive SAVE clearance confirmations and address any clearance delays immediately
+* Coordinate with Suffolk County Police Department or Town Safety to confirm training schedule and participation for assigned personnel prior to service start
+* Conduct school-specific orientation for all assigned guards: review of building layouts, entry/exit protocols, communication procedures, log book procedures, and District chain of command contacts
+* Procure and confirm District-approved uniforms for all assigned personnel
+* Issue company-provided cellular devices and two-way communication equipment to all assigned guards
+* Provide District with complete on-call management contact list (Site Supervisor and Operations Manager, 24/7 direct mobile numbers)
 
 **Pre-Start (June 28–30, 2026):**
-- Confirm final post assignments for all 12 locations and verify personnel readiness
-- Conduct final supervisory review of post orders and District-specific protocols
-- Confirm coverage plan for lunch breaks and rest periods at each location
-- Conduct tabletop scenario exercise with assigned personnel covering active shooter, lockdown, and medical emergency response
+* Confirm final post assignments for all 12 locations and verify personnel readiness
+* Conduct final supervisory review of post orders and District-specific protocols
+* Confirm coverage plan for lunch breaks and rest periods at each location
+* Conduct tabletop scenario exercise with assigned personnel covering active shooter, lockdown, and medical emergency response
 
 **Service Start: July 1, 2026**
 
@@ -339,10 +339,10 @@ All replacement personnel require prior District approval before assignment. The
 
 Maintaining continuous armed coverage at all 12 locations is a non-negotiable operational commitment of Utica Security Services Inc. The Proposer's coverage continuity model includes:
 
-- A dedicated float pool of pre-screened, SAVE-cleared, licensed armed guards on standby to cover any absence or vacancy without delay
-- On-call supervisory coverage 24/7 to initiate coverage procedures immediately upon notification of any vacancy
-- A target of filling any unstaffed post within one hour of identifying a vacancy
-- Same-guard continuity as the priority; float staff are assigned only when the primary guard is unavailable and only after prior District notification
+* A dedicated float pool of pre-screened, SAVE-cleared, licensed armed guards on standby to cover any absence or vacancy without delay
+* On-call supervisory coverage 24/7 to initiate coverage procedures immediately upon notification of any vacancy
+* A target of filling any unstaffed post within one hour of identifying a vacancy
+* Same-guard continuity as the priority; float staff are assigned only when the primary guard is unavailable and only after prior District notification
 
 No invoice is submitted for any post-hour not filled by a deployed, licensed armed guard.
 
@@ -372,19 +372,19 @@ Utica Security Services Inc. assigns experienced management personnel to oversee
 
 Utica Security Services Inc. operates under a clearly defined command-and-control structure for this engagement:
 
-**Chief Executive Officer** — Strategic oversight, contract compliance, ultimate accountability to the District
+**Chief Executive Officer**: Strategic oversight, contract compliance, ultimate accountability to the District
 
-**Director of Operations** — Centralized oversight of all District security operations; staffing adequacy and deployment integrity across all 12 locations
+**Director of Operations**: Centralized oversight of all District security operations; staffing adequacy and deployment integrity across all 12 locations
 
-**Operations Manager** — Day-to-day operational management; scheduling, absenteeism mitigation, supervisory direction; single point of contact for District administration on operational matters
+**Operations Manager**: Day-to-day operational management; scheduling, absenteeism mitigation, supervisory direction; single point of contact for District administration on operational matters
 
-**Site/Field Supervisors (24/7 On-Call)** — Immediate point of contact for incident response; attendance verification; post-order enforcement; real-time coordination with building principals and the Director of Security; conducts post inspections
+**Site/Field Supervisors (24/7 On-Call)**: Immediate point of contact for incident response; attendance verification; post-order enforcement; real-time coordination with building principals and the Director of Security; conducts post inspections
 
-**Armed Guards (14 per school day)** — Frontline armed security at assigned school locations; exterior station duty, vehicle patrol when applicable, foot patrols as directed, access point monitoring, incident response, log maintenance, and reporting
+**Armed Guards (14 per school day)**: Frontline armed security at assigned school locations; exterior station duty, vehicle patrol when applicable, foot patrols as directed, access point monitoring, incident response, log maintenance, and reporting
 
-**Training Manager** — Oversight of initial, on-the-job, firearms, active shooter, and in-service training; certificate tracking and recordkeeping; coordination with Suffolk County Police Department and Town Safety
+**Training Manager**: Oversight of initial, on-the-job, firearms, active shooter, and in-service training; certificate tracking and recordkeeping; coordination with Suffolk County Police Department and Town Safety
 
-**Human Resources Manager** — Background checks, SAVE clearances, drug screening, license verification, conduct standards, personnel file maintenance
+**Human Resources Manager**: Background checks, SAVE clearances, drug screening, license verification, conduct standards, personnel file maintenance
 
 ### 5.3 Hiring Standards and Military/Law Enforcement Requirements
 
@@ -392,9 +392,9 @@ The Proposer's armed guard selection process for District assignments is designe
 
 The Proposer's pre-assignment screening for District-bound armed guards includes:
 
-- Verification of minimum five years of current or prior military or law enforcement service through official documentation (DD-214, law enforcement employment records, or equivalent)
-- Review of service record for relevant tactical, patrol, or emergency response experience
-- Assessment of fitness for school-district armed security assignment
+* Verification of minimum five years of current or prior military or law enforcement service through official documentation (DD-214, law enforcement employment records, or equivalent)
+* Review of service record for relevant tactical, patrol, or emergency response experience
+* Assessment of fitness for school-district armed security assignment
 
 Only candidates who meet the military/law enforcement experience threshold proceed to further screening and assignment consideration.
 
@@ -402,18 +402,18 @@ Only candidates who meet the military/law enforcement experience threshold proce
 
 All armed guards assigned to the Smithtown Central School District meet the following requirements:
 
-- Minimum age: 21 years
-- High school diploma or GED (unless waived in writing by the District)
-- Ability to speak, read, and write English for communication and report writing
-- Good physical condition to perform essential duties
-- Minimum five years of current or prior military and/or law enforcement experience
-- Valid NYS security guard license
-- Valid NYS firearm license, current throughout the agreement
-- Successful completion of required pre-employment background checks
-- Successful SAVE clearance by the New York State Education Department before assignment
-- Successful pre-employment drug screening
-- Annual drug screening throughout the contract term
-- Completion of all required NYS firearm training requirements under applicable law, including NY Penal Law Article 35 and General Business Law
+* Minimum age: 21 years
+* High school diploma or GED (unless waived in writing by the District)
+* Ability to speak, read, and write English for communication and report writing
+* Good physical condition to perform essential duties
+* Minimum five years of current or prior military and/or law enforcement experience
+* Valid NYS security guard license
+* Valid NYS firearm license, current throughout the agreement
+* Successful completion of required pre-employment background checks
+* Successful SAVE clearance by the New York State Education Department before assignment
+* Successful pre-employment drug screening
+* Annual drug screening throughout the contract term
+* Completion of all required NYS firearm training requirements under applicable law, including NY Penal Law Article 35 and General Business Law
 
 All firearms carried by assigned guards are maintained in good working order. The Proposer bears all costs for firearms, ammunition, licensing, training, and maintenance.
 
@@ -421,9 +421,9 @@ All firearms carried by assigned guards are maintained in good working order. Th
 
 Utica Security Services Inc. provides 24 hours per day, seven days per week on-call management availability through a two-tier escalation structure:
 
-**Tier 1 — Site Supervisor (Primary On-Call):** Available 24/7/365; responsible for immediate response to staffing deficiencies, routine incidents, and operational concerns; acknowledges all contacts within 15 minutes and initiates corrective action without delay.
+**Tier 1, Site Supervisor (Primary On-Call):** Available 24/7/365; responsible for immediate response to staffing deficiencies, routine incidents, and operational concerns; acknowledges all contacts within 15 minutes and initiates corrective action without delay.
 
-**Tier 2 — Operations Manager (Secondary Escalation):** Available 24/7/365; activated for critical incidents, repeated staffing issues, policy deviations, or matters requiring management-level decision-making; full authority to deploy resources, authorize coverage adjustments, and coordinate directly with District leadership.
+**Tier 2, Operations Manager (Secondary Escalation):** Available 24/7/365; activated for critical incidents, repeated staffing issues, policy deviations, or matters requiring management-level decision-making; full authority to deploy resources, authorize coverage adjustments, and coordinate directly with District leadership.
 
 Upon contract execution, the Proposer provides the District with a complete contact list identifying the Site Supervisor and Operations Manager with direct 24/7 mobile numbers and email addresses. The contact list is updated within 24 hours of any change to designated contacts.
 
@@ -435,12 +435,12 @@ Upon contract execution, the Proposer provides the District with a complete cont
 
 Utica Security Services Inc. maintains a comprehensive training program designed to ensure that all armed security personnel assigned to the Smithtown Central School District are fully prepared to perform their duties safely, professionally, and in compliance with all contractual, regulatory, and operational requirements. Our training philosophy in the school district context emphasizes:
 
-- Student and staff safety above all other priorities
-- Professional conduct appropriate to an educational environment
-- De-escalation as the preferred first response to any behavioral incident
-- Regulatory compliance with all NYS and federal requirements governing armed security
-- Continuous firearms proficiency and active threat preparedness
-- Strict adherence to the District's chain of command and safety protocols
+* Student and staff safety above all other priorities
+* Professional conduct appropriate to an educational environment
+* De-escalation as the preferred first response to any behavioral incident
+* Regulatory compliance with all NYS and federal requirements governing armed security
+* Continuous firearms proficiency and active threat preparedness
+* Strict adherence to the District's chain of command and safety protocols
 
 All training is documented in each assigned guard's personnel file. Training certificates for any additional training are provided to the District within five days of completion. Failure to complete required firearms training is grounds for immediate removal from the District assignment.
 
@@ -493,12 +493,12 @@ All firearms used by assigned guards are maintained in good working order at all
 
 The Proposer provides at least bi-annual active shooter tactical training for all armed guards assigned to the District. This training includes:
 
-- Active shooter response protocols aligned to law enforcement and Department of Homeland Security guidance
-- Threat identification, isolation, and neutralization within the context of an occupied school building
-- Communication and coordination with District administration and law enforcement during an active threat event
-- Evacuation support and reunification procedures
-- Trauma-informed response to students and staff during and after a critical incident
-- Scenario-based exercises simulating school-specific active threat environments
+* Active shooter response protocols aligned to law enforcement and Department of Homeland Security guidance
+* Threat identification, isolation, and neutralization within the context of an occupied school building
+* Communication and coordination with District administration and law enforcement during an active threat event
+* Evacuation support and reunification procedures
+* Trauma-informed response to students and staff during and after a critical incident
+* Scenario-based exercises simulating school-specific active threat environments
 
 Training records for active shooter tactical training are maintained in each assigned guard's personnel file. The Proposer provides the District with documentation of completed sessions within five days of each training completion.
 
@@ -510,13 +510,13 @@ The Proposer understands the District's expectation that the successful Proposer
 
 The Proposer maintains complete training records for all assigned personnel. Upon District request, the following training documentation is provided without charge:
 
-- 8-hour pre-assignment training certificate
-- 16-hour on-the-job training certificate (NYS mandated)
-- Security Guard Training Certificate
-- Annual in-service training certificates
-- Quarterly firearms training certificates
-- Bi-annual active shooter tactical training certificates
-- Any additional specialized training certificates, provided within five days of completion
+* 8-hour pre-assignment training certificate
+* 16-hour on-the-job training certificate (NYS mandated)
+* Security Guard Training Certificate
+* Annual in-service training certificates
+* Quarterly firearms training certificates
+* Bi-annual active shooter tactical training certificates
+* Any additional specialized training certificates, provided within five days of completion
 
 Training records for all assigned individuals are available within the employee files provided to the District upon request.
 
@@ -534,12 +534,12 @@ The Proposer maintains all required New York State licenses and registrations fo
 
 All armed guards assigned to the District have successfully completed a comprehensive pre-employment background check before assignment. Background checks include:
 
-- Fingerprinting
-- Criminal records search (state and federal)
-- Previous employment verification
-- Social Security number verification
-- DMV records check
-- Drug screening
+* Fingerprinting
+* Criminal records search (state and federal)
+* Previous employment verification
+* Social Security number verification
+* DMV records check
+* Drug screening
 
 Background check results are maintained in each individual's employee file. Upon District request, the Proposer provides the relevant employee files without charge, including employment application, training records, NYS Security Guard License, NYS registration evidence, birth certificate or I-9 or valid NYS DMV driver's license, background check results, and drug test results.
 
@@ -563,7 +563,7 @@ The Proposer provides photo identification badges for all personnel deployed on 
 
 ### 8.1 Policy Overview
 
-Utica Security Services Inc. maintains a comprehensive Use of Force Policy that governs all armed security personnel assigned to the Smithtown Central School District. The policy is fully aligned with New York Penal Law Article 35, General Business Law, and all applicable best practices for armed security in an educational setting. The core principle of this policy is that force — and particularly deadly force — is an absolute last resort, used only when lawfully justified and when no lesser means is available to protect human life.
+Utica Security Services Inc. maintains a comprehensive Use of Force Policy that governs all armed security personnel assigned to the Smithtown Central School District. The policy is fully aligned with New York Penal Law Article 35, General Business Law, and all applicable best practices for armed security in an educational setting. The core principle of this policy is that force (and particularly deadly force) is an absolute last resort, used only when lawfully justified and when no lesser means is available to protect human life.
 
 In a school environment, the paramount application of this policy is the protection of students, staff, and lawful visitors from imminent bodily harm or death. Every armed guard deployed to the District is trained to understand and apply this policy without exception.
 
@@ -571,15 +571,15 @@ In a school environment, the paramount application of this policy is the protect
 
 The Proposer's Use of Force Continuum, applied in all District assignments, progresses as follows:
 
-1. **Visible Presence** — The armed guard's professional, uniformed presence serves as the primary deterrent to unlawful entry and threatening behavior. Officers are stationed visibly and positioned to be seen from approach routes to school buildings.
+1. **Visible Presence**: The armed guard's professional, uniformed presence serves as the primary deterrent to unlawful entry and threatening behavior. Officers are stationed visibly and positioned to be seen from approach routes to school buildings.
 
-2. **Verbal Communication and De-Escalation** — Officers are trained to address all behavioral or threat situations with clear, calm, and professional verbal communication first. De-escalation skills are practiced through quarterly training exercises. The goal is to resolve all situations through verbal engagement whenever possible.
+2. **Verbal Communication and De-Escalation**: Officers are trained to address all behavioral or threat situations with clear, calm, and professional verbal communication first. De-escalation skills are practiced through quarterly training exercises. The goal is to resolve all situations through verbal engagement whenever possible.
 
-3. **Physical Presence and Positioning** — Officers may use physical positioning and non-combative physical guidance to control access points or manage a person attempting unlawful entry, consistent with lawful authority under New York General Business Law.
+3. **Physical Presence and Positioning**: Officers may use physical positioning and non-combative physical guidance to control access points or manage a person attempting unlawful entry, consistent with lawful authority under New York General Business Law.
 
-4. **Physical Control** — Physical restraint or control techniques are applied only when necessary to prevent immediate harm and only to the extent required to neutralize the immediate threat.
+4. **Physical Control**: Physical restraint or control techniques are applied only when necessary to prevent immediate harm and only to the extent required to neutralize the immediate threat.
 
-5. **Deadly Force** — The use of a firearm or deadly force is authorized only as an absolute last resort, when the officer reasonably believes that deadly physical force is necessary to defend themselves or another person from what they reasonably believe to be the use or imminent use of deadly physical force, consistent with New York Penal Law Article 35. Deadly force is never used to protect property.
+5. **Deadly Force**: The use of a firearm or deadly force is authorized only as an absolute last resort, when the officer reasonably believes that deadly physical force is necessary to defend themselves or another person from what they reasonably believe to be the use or imminent use of deadly physical force, consistent with New York Penal Law Article 35. Deadly force is never used to protect property.
 
 ### 8.3 Firearms Responsibility
 
@@ -610,10 +610,10 @@ Key program elements include: daily post inspections by Site/Field Supervisors, 
 
 At the start of each duty assignment, all assigned guards:
 
-- Sign the log book with date and time of duty start
-- Read all entries since the previous shift
-- Review any noted problems, incidents, or special instructions
-- Confer with supervisors regarding current special instructions or District directives
+* Sign the log book with date and time of duty start
+* Read all entries since the previous shift
+* Review any noted problems, incidents, or special instructions
+* Confer with supervisors regarding current special instructions or District directives
 
 Shift-end protocols include a verbal incident summary to the Site Supervisor and, where any incident occurred, immediate notification to the Business Official and/or Director of Security. Written incident reports on company letterhead are submitted for all reportable incidents.
 
@@ -621,11 +621,11 @@ Shift-end protocols include a verbal incident summary to the Site Supervisor and
 
 Site/Field Supervisors conduct regular post inspections at all 12 District locations. Inspections verify:
 
-- Guard presence and professional appearance
-- Proper equipment (communications devices, firearm)
-- Log book compliance
-- Adherence to post orders and District-approved protocols
-- Any conditions requiring attention or reporting
+* Guard presence and professional appearance
+* Proper equipment (communications devices, firearm)
+* Log book compliance
+* Adherence to post orders and District-approved protocols
+* Any conditions requiring attention or reporting
 
 Inspection findings are documented. Deficiencies are corrected immediately, with the Operations Manager notified of any recurring or significant issues.
 
@@ -633,12 +633,12 @@ Inspection findings are documented. Deficiencies are corrected immediately, with
 
 All complaints concerning assigned guard performance, conduct, or any other service matter are handled through the following structured process:
 
-- **Receipt and acknowledgment** within one business day of complaint receipt; District notified within four hours of receipt (immediately for safety or security risks)
-- **Initial status update** to District within three business days, including preliminary findings and any interim measures
-- **Full investigation** completed within ten business days for standard matters
-- **Final written report** of findings and corrective actions within two business days after investigation conclusion
-- **Progressive discipline** based on severity: verbal counseling and performance improvement plan for first minor offense; written warning and mandatory retraining for second offense or moderate violation; suspension and comprehensive retraining for third offense or serious violation; termination for repeated or severe violations
-- **Immediate removal** of any individual where the complaint involves an immediate safety or security risk, sexual harassment, physical altercations, or criminal activity allegations
+* **Receipt and acknowledgment** within one business day of complaint receipt; District notified within four hours of receipt (immediately for safety or security risks)
+* **Initial status update** to District within three business days, including preliminary findings and any interim measures
+* **Full investigation** completed within ten business days for standard matters
+* **Final written report** of findings and corrective actions within two business days after investigation conclusion
+* **Progressive discipline** based on severity: verbal counseling and performance improvement plan for first minor offense; written warning and mandatory retraining for second offense or moderate violation; suspension and comprehensive retraining for third offense or serious violation; termination for repeated or severe violations
+* **Immediate removal** of any individual where the complaint involves an immediate safety or security risk, sexual harassment, physical altercations, or criminal activity allegations
 
 The District receives a written summary of all findings, corrective actions, and any personnel changes upon conclusion of each investigation.
 
@@ -661,33 +661,33 @@ The District will be named as Additional Insured on all applicable policies. Cov
 The Proposer confirms the ability to provide and maintain the following coverages throughout the contract term:
 
 **Commercial General Liability:**
-- $1,000,000 per occurrence
-- $2,000,000 aggregate
-- $2,000,000 products and completed operations
-- $1,000,000 personal and advertising injury
-- $1,000,000 sexual misconduct and assault
-- $100,000 fire damage
-- $10,000 medical expense
-- Policy includes assault and battery coverage, including defamation, false arrest, detention, and imprisonment
-- Policy covers all armed security guard services rendered to the District
-- Additional Insured endorsement: CG 20 26 or equivalent accepted at District discretion
+* $1,000,000 per occurrence
+* $2,000,000 aggregate
+* $2,000,000 products and completed operations
+* $1,000,000 personal and advertising injury
+* $1,000,000 sexual misconduct and assault
+* $100,000 fire damage
+* $10,000 medical expense
+* Policy includes assault and battery coverage, including defamation, false arrest, detention, and imprisonment
+* Policy covers all armed security guard services rendered to the District
+* Additional Insured endorsement: CG 20 26 or equivalent accepted at District discretion
 
 **Security Professional Liability** (if armed security guard services are not covered under Commercial General Liability):
-- $2,000,000 per occurrence
-- $2,000,000 aggregate
-- Claims-made coverage with effective date before contract inception; maintained for three years after work completion
+* $2,000,000 per occurrence
+* $2,000,000 aggregate
+* Claims-made coverage with effective date before contract inception; maintained for three years after work completion
 
 **Automobile Liability:**
-- $1,000,000 combined single limit
-- Coverage for owned, hired, borrowed, and non-owned vehicles
+* $1,000,000 combined single limit
+* Coverage for owned, hired, borrowed, and non-owned vehicles
 
 **Workers' Compensation and NYS Disability Insurance:**
-- Statutory limits
-- Provided via C-105.2 or U-26.3 and DB-120.1 forms (ACORD certificates are not acceptable for these coverages)
+* Statutory limits
+* Provided via C-105.2 or U-26.3 and DB-120.1 forms (ACORD certificates are not acceptable for these coverages)
 
 **Umbrella/Excess Insurance:**
-- $10,000,000 each occurrence and aggregate
-- Follow-form or broader basis over required Auto, General Liability, and Security Professional Liability
+* $10,000,000 each occurrence and aggregate
+* Follow-form or broader basis over required Auto, General Liability, and Security Professional Liability
 
 All policies are from insurers rated A- or better by A.M. Best and licensed in New York. A New York licensed and admitted insurer is the Proposer's preference. Completed endorsements are attached to the Certificate of Insurance for General Liability, Auto Liability, Security Professional Liability, and Umbrella/Excess.
 
@@ -702,11 +702,11 @@ All policies are from insurers rated A- or better by A.M. Best and licensed in N
 Utica Security Services Inc. fully complies with New York State Labor Law prevailing wage requirements applicable to this contract. The Proposer acknowledges that prevailing wage rates under Suffolk County PRC #2026900471 apply to all armed security guard services performed under this agreement. The current Suffolk County Article 9 Armed Security Guard prevailing wage rate is $33.93 per hour with supplemental benefits of $2.46 per hour (July 1, 2025 through June 30, 2026); the Proposer will verify any updated schedule before final submission.
 
 The Proposer commits to:
-- Paying all assigned armed guards at no less than the applicable prevailing wage rate
-- Submitting certified payroll with all invoices
-- Submitting the first payroll transcript within 30 days after issuance of the first payroll
-- Submitting payroll transcripts every 30 days thereafter
-- Understanding that no payment will be made by the District unless certified payroll has been submitted
+* Paying all assigned armed guards at no less than the applicable prevailing wage rate
+* Submitting certified payroll with all invoices
+* Submitting the first payroll transcript within 30 days after issuance of the first payroll
+* Submitting payroll transcripts every 30 days thereafter
+* Understanding that no payment will be made by the District unless certified payroll has been submitted
 
 Invoices are submitted monthly and include time logs, attendance records, types of services rendered, and fees payable.
 
@@ -763,54 +763,54 @@ Utica Security Services Inc. acknowledges and accepts the following contract ter
 Utica Security Services Inc. will provide five professional references representing accounts similar in size and scope to the Smithtown Central School District, including clients with institutional, government, or public-sector armed security requirements. Reference details are provided below in the required format.
 
 **Reference 1**
-- Organization: TO BE PROVIDED
-- Contact Name: TO BE PROVIDED
-- Title: TO BE PROVIDED
-- Address: TO BE PROVIDED
-- Phone: TO BE PROVIDED
-- Email: TO BE PROVIDED
-- Description of Services Provided: TO BE PROVIDED
-- Contract Period: TO BE PROVIDED
+* Organization: TO BE PROVIDED
+* Contact Name: TO BE PROVIDED
+* Title: TO BE PROVIDED
+* Address: TO BE PROVIDED
+* Phone: TO BE PROVIDED
+* Email: TO BE PROVIDED
+* Description of Services Provided: TO BE PROVIDED
+* Contract Period: TO BE PROVIDED
 
 **Reference 2**
-- Organization: TO BE PROVIDED
-- Contact Name: TO BE PROVIDED
-- Title: TO BE PROVIDED
-- Address: TO BE PROVIDED
-- Phone: TO BE PROVIDED
-- Email: TO BE PROVIDED
-- Description of Services Provided: TO BE PROVIDED
-- Contract Period: TO BE PROVIDED
+* Organization: TO BE PROVIDED
+* Contact Name: TO BE PROVIDED
+* Title: TO BE PROVIDED
+* Address: TO BE PROVIDED
+* Phone: TO BE PROVIDED
+* Email: TO BE PROVIDED
+* Description of Services Provided: TO BE PROVIDED
+* Contract Period: TO BE PROVIDED
 
 **Reference 3**
-- Organization: TO BE PROVIDED
-- Contact Name: TO BE PROVIDED
-- Title: TO BE PROVIDED
-- Address: TO BE PROVIDED
-- Phone: TO BE PROVIDED
-- Email: TO BE PROVIDED
-- Description of Services Provided: TO BE PROVIDED
-- Contract Period: TO BE PROVIDED
+* Organization: TO BE PROVIDED
+* Contact Name: TO BE PROVIDED
+* Title: TO BE PROVIDED
+* Address: TO BE PROVIDED
+* Phone: TO BE PROVIDED
+* Email: TO BE PROVIDED
+* Description of Services Provided: TO BE PROVIDED
+* Contract Period: TO BE PROVIDED
 
 **Reference 4**
-- Organization: TO BE PROVIDED
-- Contact Name: TO BE PROVIDED
-- Title: TO BE PROVIDED
-- Address: TO BE PROVIDED
-- Phone: TO BE PROVIDED
-- Email: TO BE PROVIDED
-- Description of Services Provided: TO BE PROVIDED
-- Contract Period: TO BE PROVIDED
+* Organization: TO BE PROVIDED
+* Contact Name: TO BE PROVIDED
+* Title: TO BE PROVIDED
+* Address: TO BE PROVIDED
+* Phone: TO BE PROVIDED
+* Email: TO BE PROVIDED
+* Description of Services Provided: TO BE PROVIDED
+* Contract Period: TO BE PROVIDED
 
 **Reference 5**
-- Organization: TO BE PROVIDED
-- Contact Name: TO BE PROVIDED
-- Title: TO BE PROVIDED
-- Address: TO BE PROVIDED
-- Phone: TO BE PROVIDED
-- Email: TO BE PROVIDED
-- Description of Services Provided: TO BE PROVIDED
-- Contract Period: TO BE PROVIDED
+* Organization: TO BE PROVIDED
+* Contact Name: TO BE PROVIDED
+* Title: TO BE PROVIDED
+* Address: TO BE PROVIDED
+* Phone: TO BE PROVIDED
+* Email: TO BE PROVIDED
+* Description of Services Provided: TO BE PROVIDED
+* Contract Period: TO BE PROVIDED
 
 ---
 
@@ -820,11 +820,11 @@ Pricing is submitted on the District's Form of Proposal in the required format, 
 
 The Proposer acknowledges the following pricing framework:
 
-- **Calculation Basis:** 180 days as the estimated number of school service days for the 2026–2027 school year
-- **Staffing Requirement:** 14 armed guards per school day
-- **Prevailing Wage:** Suffolk County PRC #2026900471; current Article 9 Armed Security Guard rate: $33.93/hour + $2.46/hour supplemental benefits (effective July 1, 2025 through June 30, 2026). The Proposer will verify any updated schedule or addendum before final submission.
-- **Overtime:** Time and one half after 8 hours per day and after 40 straight hours per week (codes B and B3), as specified in the prevailing wage schedule
-- **No sales or excise taxes** are charged; the District is exempt
+* **Calculation Basis:** 180 days as the estimated number of school service days for the 2026–2027 school year
+* **Staffing Requirement:** 14 armed guards per school day
+* **Prevailing Wage:** Suffolk County PRC #2026900471; current Article 9 Armed Security Guard rate: $33.93/hour + $2.46/hour supplemental benefits (effective July 1, 2025 through June 30, 2026). The Proposer will verify any updated schedule or addendum before final submission.
+* **Overtime:** Time and one half after 8 hours per day and after 40 straight hours per week (codes B and B3), as specified in the prevailing wage schedule
+* **No sales or excise taxes** are charged; the District is exempt
 
 **Proposed Hourly Rate (Regular, Armed Security Guard, 2026–2027):** TO BE PROVIDED
 

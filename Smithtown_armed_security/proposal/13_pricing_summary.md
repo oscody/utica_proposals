@@ -4,11 +4,11 @@ Pricing is submitted on the District's Form of Proposal in the required format, 
 
 The Proposer acknowledges the following pricing framework:
 
-- **Calculation Basis:** 180 days as the estimated number of school service days for the 2026–2027 school year
-- **Staffing Requirement:** 14 armed guards per school day
-- **Prevailing Wage:** Suffolk County PRC #2026900471; current Article 9 Armed Security Guard rate: $33.93/hour + $2.46/hour supplemental benefits (effective July 1, 2025 through June 30, 2026). The Proposer will verify any updated schedule or addendum before final submission.
-- **Overtime:** Time and one half after 8 hours per day and after 40 straight hours per week (codes B and B3), as specified in the prevailing wage schedule
-- **No sales or excise taxes** are charged; the District is exempt
+* **Calculation Basis:** 180 days as the estimated number of school service days for the 2026–2027 school year
+* **Staffing Requirement:** 14 armed guards per school day
+* **Prevailing Wage:** Suffolk County PRC #2026900471; current Article 9 Armed Security Guard rate: $33.93/hour + $2.46/hour supplemental benefits (effective July 1, 2025 through June 30, 2026). The Proposer will verify any updated schedule or addendum before final submission.
+* **Overtime:** Time and one half after 8 hours per day and after 40 straight hours per week (codes B and B3), as specified in the prevailing wage schedule
+* **No sales or excise taxes** are charged; the District is exempt
 
 **Proposed Hourly Rate (Regular, Armed Security Guard, 2026–2027):** TO BE PROVIDED
 
