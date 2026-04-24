@@ -41,6 +41,9 @@ Examples: transportation hubs, aviation-adjacent, public venues, special events,
 9. Short-term emergency, on-call, or task-order security work
 Examples: prequalified lists, on-call contracts, emergency procurement vehicles, rapid deployment pools
 
+10. Transit, terminal, and passenger-facility security
+Examples: regional transit authorities, bus terminals, transit centers, passenger waiting areas, administrative campuses, and customer-facing transportation hubs
+
 Exclude the following:
 
 1. SAM.gov opportunities
@@ -61,6 +64,7 @@ Research instructions:
 4. Do not include opportunities that are clearly closed, expired, or already excluded above unless they are relevant as a future recurring opportunity. If included as recurring, label them clearly as recurring-cycle intelligence, not active leads.
 5. Prefer opportunities where Utica’s in-house training, fingerprinting, testing, and compliance infrastructure would create a competitive advantage.
 6. Flag opportunities that appear especially strong for Queens-based deployment, NYC metro coverage, or scalable regional staffing.
+7. Explicitly include non-MTA transit authorities, regional transportation authorities, transit centers, and transportation-related public entities in New York State.
 
 For each opportunity, provide:
 
