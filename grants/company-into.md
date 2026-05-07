@@ -1,4 +1,12 @@
-Here’s what the photos show:
+based on trainings that we want to create 
+
+
+other companies 
+* perfume shop 
+* energy consulting 
+* travel agency 
+* real estate 
+
 
 **Location / business signs**
 
